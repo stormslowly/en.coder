@@ -8,10 +8,10 @@ Hello World. 大家好, 我是 pshu. 今天是码农英语课堂的第9期了.
 Remote Dictionary Server.
 
 几年之前的 pshu 也是 Out, 为了让自己 In 一点. 就开始学习 redis 了.
-当是就开始看一本书来给自己充电,叫 <redis in action>.
+当是就开始看一本书来给自己充电,叫 "redis in action".
 这类 "in action" 的书国内一般都是翻译成 xx 实战,那这里就是 redis 实战了.
 
-就<redis in action> 这本书而言的话,还是非常推荐的. 这本书内容安排上还是比较有意思的,
+就"redis in action" 这本书而言的话,还是非常推荐的. 这本书内容安排上还是比较有意思的,
 他会先介绍一部分的 redis 的知识, 然后再介绍就此部分的知识做的一些应用.
 这样边学边做不至于因为光学理论知识枯燥而放弃. 当然也因为这个原因,这本书属于那种让能力提升的书,
 level up, 但不适合做工具参考书( reference). 但是在互联网时代了, 技术最好的参考书就它的主页文档了.
@@ -19,6 +19,7 @@ level up, 但不适合做工具参考书( reference). 但是在互联网时代�
 可以一边看原文文档, 一边看翻译文档.
 不过注意, 翻译文档只原来你要参考的文档的参考, 请用参考的参考的态度去看他.
 
+幸福终点站中 ,汤姆汉克斯通过英语和母语 六人行 学习英语.
 https://youtu.be/niuysceUfj0?list=PLyzjcRIrgrHfSk8Up7NCL6YYJOKwMQ6Hb&t=2501
 
 好了说回来, redis in action 有一节(section), 讲的是如何用 redis 做自动补全的后端组件.
@@ -42,7 +43,7 @@ https://youtu.be/niuysceUfj0?list=PLyzjcRIrgrHfSk8Up7NCL6YYJOKwMQ6Hb&t=2501
 比如要调用前缀为 lexi 的20个补全提示的话只要 `ZRANGEBYLEX (ab + 20`
 
 命令中的 LEX 就是今天要说要的单词 ***lexicography*** 的缩写.
-刚说提高的按照二进制编码排序,在一些编码下就是字典序 lexicography order 的.
+刚说按照二进制编码排序,在一些编码下就是字典序 lexicography order 的.
 
 
 重新说下单词, 我记得之前看了很多讲如何记单词的资料.有一个资料是通过字母的象形来全是单词的意思.
