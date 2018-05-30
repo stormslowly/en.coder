@@ -3,23 +3,23 @@
 Hello World. 大家好, 我是 pshu. 今天是码农英语课堂的第11期了.
 
 
-今天和大家聊一下 Object Orientation 发明的历史.
+这期和大家聊一下 Object Orientation 发明的历史，因为这段历史有较多的细节和本节目的特色所以会分成两期来讲。希望大家喜欢。
 
 
 # 双星的陨落
 
-2002年对于 OO 领域或者说计算机领域来说的话是非常压抑的一年. 因为 OO 领域两个领袖人物相继去世.
+2002年对于 OO 领域或者说计算机领域来说的话是非常压抑的一年. 因为 OO 领域两个领袖人物 Ole-Johan Dahl (简写为 OJD，O里行道), Kristen Nygaard  （简写 KN， 库里斯提 泥~good）相继去世. （两位前辈名字的准确读法参考：https://youtu.be/B1Hvxxv2AEY?t=191 ）
 
 先是 OJD 去世 , KN 还给他写了讣告. 几个月后 KN 也因为心脏病突发去世. 两个位巨星的陨落是给计算机领域的巨大的损失. 当年很多的计算机期刊杂志都发文来缅怀两位巨星.
 
-那在现在各个领域都在鼓吹 functional programing (函数式编程)的时候, pshu 就反其道而行来讲一讲面向对象编程诞生的历史.
+那在现在各个语言都在鼓吹 functional programing (函数式编程)的时候, pshu 就反其道而行来讲一讲面向对象编程诞生的历史.
 
-本文参考了论文 "the birth of simula" 的第二部分 "a chronological overview" 和 OJD 在去世一年写的论文 "the birth of OO"
+为了尽量真实重现当年 OO 发明的历史，本文参考了论文 "the birth of simula" 的第二部分 "a chronological overview" 和 OJD 在去世一年写的论文 "the birth of OO".
 
-在开始讲历史之间,码农英语课堂先讲个单词
+在开始讲历史之间,码农英语课堂先讲个单词。就是刚才提到的 chronological 的词根：chrono
 
 chrono: 时间顺序的, 这次是源自希腊语(Greek)时间的单词 khronos
-我们平时最长碰到的就是  synchronized 同步的.
+我们平时最长碰到的就是  synchronize 同步. syn 是表示一起的意思，syndrome 并发症。
 
 
 ## 早期设计阶段 The early design phase (1961 - 1962/8月)
@@ -34,12 +34,13 @@ KN 在挪威计算级中心(Norwegian Computing Center, NCC)负责一些运筹�
 
 这个阶段的话的产出就叫做 simula 0; 当初的实现的思路是做一个 Algol 语言的预处理器. 而为什么要选择 Algol 有三条理由,其中两条是和技术相关, 最后一条原因是 "European patriotism" - 爱欧洲主义.
 
-patriotism 一般是表示爱国主义. 这里为什么要说"爱欧洲"呢? 当时计算机领域是美国独大的一个局面. 那个时期四个被公认的对当代计算机语言影响最大的语言: Lisp, Fortran, COBOL, Algol. 只有 Alogl 是欧洲人(主要是德国)发明的, 其他是美帝国主义的. 所以在合理的选择范围内, 选择国货这个是人之常情哈.
+patriotism 爱国主义，这个单词源自词根，patriot； 而 patriot 的词源是希腊语的词根 patr，而这个 patr 是变形次词根 father.
+
+这里为什么要说"爱欧洲"呢? 当时计算机领域是美国独大的一个局面. 那个时期四个被公认的对当代计算机语言影响最大的语言: Lisp, Fortran, COBOL, Algol. 只有 Alogl 是欧洲人(主要是德国)发明的, 其他是美帝国主义的. 所以在合理的选择范围内, 选择国货这个是人之常情哈.
 
 
 
-
-
+happy patriotisim!
 
 
 ## The Simula 1 design & implement phase ( 1962 秋 - 1964 三月 - 1965 一月)
