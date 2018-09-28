@@ -15,9 +15,11 @@
 
 ![foo bar](http://cdn2.51ulong.com/18-9-28/83363858.jpg)
 
-好了这一推最后还是说点有营养的东西吧。
+好了这一推最后还是说点有营养的东西吧。最近有蛮多的大佬都出来说要退休了。我的 Geek 之神 Linus 前段时间也宣布自己要休息一段时间，并反省之前自己之前的“大嘴炮”的行为。
+
+虽然 Linus 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY2MjYxNjAsMTI1NTM1OTQwOSwxND
-Y0NjM0OTg5LC0xMDIyODU0MjA0LC0xODAyNTEyODAwLC01NTM5
-Mjk0NjEsLTEzNTA3OTM2NzldfQ==
+eyJoaXN0b3J5IjpbLTczMzI2MjA3LDEyNTUzNTk0MDksMTQ2ND
+YzNDk4OSwtMTAyMjg1NDIwNCwtMTgwMjUxMjgwMCwtNTUzOTI5
+NDYxLC0xMzUwNzkzNjc5XX0=
 -->
