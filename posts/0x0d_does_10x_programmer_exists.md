@@ -7,7 +7,7 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 目前越来越多的人认同这个观点: 程序员和程序员之间的工作效率的差别是成百上千的, 书面语有点就是相差好几个数量级(orders of magnitude).
 
-首先，非常常见的一个问题就是“真的有比普通程序要高效10倍（甚至100倍）的程序员吗？”。环视下你的四周的开发人员，到版本管理系统里面查查看昨天d
+首先，非常常见的一个问题就是“真的有比普通程序要高效10倍（甚至100倍）的程序员吗？”。环视下你的四周的开发人员，一个你认为最菜鸡的同事，再找一个你认为最牛的程序员，到版本管理系统里面查查看昨天他提交了多少代码，你提交了多少代码。
 
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.
@@ -15,6 +15,6 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 解决问题和制造问题的人都有薪水.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjQ2ODAwNSwzOTMxMjYzMTEsLTE2Mj
+eyJoaXN0b3J5IjpbMTAzOTgyNzAxNywzOTMxMjYzMTEsLTE2Mj
 QzMjQwMzVdfQ==
 -->
