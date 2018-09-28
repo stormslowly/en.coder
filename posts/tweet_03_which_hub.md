@@ -1,5 +1,5 @@
 
-推一下: 作为程序员你晚上去哪里娱乐
+推一下: 作为程序员你晚上去哪里娱乐呢？
 ---
 
 程序员也是人，大家晚上空了、闲了会去哪里娱乐放松下呢😍？
@@ -23,7 +23,7 @@
 
 ![linus](http://cdn2.51ulong.com/18-9-28/2928032.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODExOTE5MiwtODU3MTM3NzM3LDEyNT
+eyJoaXN0b3J5IjpbMTM3NDc5MTQ0NSwtODU3MTM3NzM3LDEyNT
 UzNTk0MDksMTQ2NDYzNDk4OSwtMTAyMjg1NDIwNCwtMTgwMjUx
 MjgwMCwtNTUzOTI5NDYxLC0xMzUwNzkzNjc5XX0=
 -->
