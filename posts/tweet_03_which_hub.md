@@ -13,9 +13,9 @@
 ![hub](http://cdn2.51ulong.com/18-9-28/74269558.jpg)
 程序员爱去的地方都叫 Hub，那程序员喜不喜欢泡吧呢？告诉你程序员也不老实机场泡吧的，只是经常去的是这个 Bar。
 
-![](http://cdn2.51ulong.com/18-9-28/83363858.jpg)
+![foo bar](http://cdn2.51ulong.com/18-9-28/83363858.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5NDUxMTEsMTQ2NDYzNDk4OSwtMT
-AyMjg1NDIwNCwtMTgwMjUxMjgwMCwtNTUzOTI5NDYxLC0xMzUw
-NzkzNjc5XX0=
+eyJoaXN0b3J5IjpbLTg3NzEwODk3MiwxNDY0NjM0OTg5LC0xMD
+IyODU0MjA0LC0xODAyNTEyODAwLC01NTM5Mjk0NjEsLTEzNTA3
+OTM2NzldfQ==
 -->
