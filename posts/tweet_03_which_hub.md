@@ -11,11 +11,12 @@
 投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思，pshu 的有点为难了。但是从整个统计来看 DockerHub 似乎不太受大家欢迎。pshu 思考了下，猜测了下大概像你安装一个不主动提醒升级的软件，自然装完就忘记了；Docker Image 用完了基本就再不去看有没有更新了， 如果做一个 DockerFile image 过期提醒的工具会不会有更多的人去 DokerHub 呢？
 
 ![hub](http://cdn2.51ulong.com/18-9-28/74269558.jpg)
-程序员爱去的地方都叫 Hub，那程序员喜不喜欢泡吧呢？告诉你程序员也不老实机场泡吧的，只是经常去的是这个 Bar。
+程序员爱去的地方都叫 Hub，那程序员喜不喜欢泡吧呢？告诉你程序员也不老实机场泡吧的，只是经常去的是这个 Bar。看了下日期，我也知道是个老梗。
 
 ![foo bar](http://cdn2.51ulong.com/18-9-28/83363858.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzI2MzE5NiwxNDY0NjM0OTg5LC0xMD
+eyJoaXN0b3J5IjpbMTI1NTM1OTQwOSwxNDY0NjM0OTg5LC0xMD
 IyODU0MjA0LC0xODAyNTEyODAwLC01NTM5Mjk0NjEsLTEzNTA3
 OTM2NzldfQ==
 -->
