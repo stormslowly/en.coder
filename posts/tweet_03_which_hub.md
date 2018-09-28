@@ -8,8 +8,8 @@
 
 ![hub vote](http://cdn2.51ulong.com/18-9-28/84667635.jpg)
 
-投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思，pshu 的有点为难了。但是从整个统计来看 DockerHub 似乎不太受大家欢迎。
+投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思，pshu 的有点为难了。但是从整个统计来看 DockerHub 似乎不太受大家欢迎。pshu s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjM2NzY0OSwtMTAyMjg1NDIwNCwtMT
+eyJoaXN0b3J5IjpbLTU0NzQzMTc3OCwtMTAyMjg1NDIwNCwtMT
 gwMjUxMjgwMCwtNTUzOTI5NDYxLC0xMzUwNzkzNjc5XX0=
 -->
