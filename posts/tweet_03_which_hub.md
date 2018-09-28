@@ -22,8 +22,13 @@
 视频我已经搬进来，大家一起来练听力吧。
 
 ![linus](http://cdn2.51ulong.com/18-9-28/2928032.jpg)
+
+好了这期推一下就结束了，提前祝大家国庆快乐。
+趁假期多出去走走，多看看书，让自己的世界变得更加辽阔。
+就像sh
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzA1MDM2MSwxMzc0NzkxNDQ1LC04NT
+eyJoaXN0b3J5IjpbMTQ0NTgxOTI0OCwxMzc0NzkxNDQ1LC04NT
 cxMzc3MzcsMTI1NTM1OTQwOSwxNDY0NjM0OTg5LC0xMDIyODU0
 MjA0LC0xODAyNTEyODAwLC01NTM5Mjk0NjEsLTEzNTA3OTM2Nz
 ldfQ==
