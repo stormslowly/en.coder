@@ -23,14 +23,12 @@
 
 ![linus](http://cdn2.51ulong.com/18-9-28/2928032.jpg)
 
-好了这期推一下就结束了，提前祝大家国庆快乐。
-趁假期多出去走走，多看看书，让自己的世界变得更加辽阔。
-我们多学一门外语也是为了自己能多一扇窗户多了解外面的世界。
+好了这期推一下就结束了，提前祝大家国庆快乐。趁假期多出去走走，多看看书，让自己的世界变得更加辽阔。我们多学一门外语也是为了自己能多一扇窗户多了解外面的世界。
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzEwMjQ0MywtMTcwNTY3NTk1MiwxMz
+eyJoaXN0b3J5IjpbMTAzNjM3NTg1MSwtMTcwNTY3NTk1MiwxMz
 c0NzkxNDQ1LC04NTcxMzc3MzcsMTI1NTM1OTQwOSwxNDY0NjM0
 OTg5LC0xMDIyODU0MjA0LC0xODAyNTEyODAwLC01NTM5Mjk0Nj
 EsLTEzNTA3OTM2NzldfQ==
