@@ -6,8 +6,11 @@
 
 三天前 twitter 大号 @nixcraft 发起了一个投票，问问大家最喜欢什么类型的 ***hub***
 
-![](http://cdn2.51ulong.com/18-9-28/84667635.jpg)
+![hub vote](http://cdn2.51ulong.com/18-9-28/84667635.jpg)
+
+投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思。pshu 的有点为难了。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTk5NTYzNiwtNTUzOTI5NDYxLC0xMz
-UwNzkzNjc5XX0=
+eyJoaXN0b3J5IjpbLTE4MDI1MTI4MDAsLTU1MzkyOTQ2MSwtMT
+M1MDc5MzY3OV19
 -->
