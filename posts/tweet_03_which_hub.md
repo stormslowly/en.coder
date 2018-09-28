@@ -25,11 +25,13 @@
 
 好了这期推一下就结束了，提前祝大家国庆快乐。
 趁假期多出去走走，多看看书，让自己的世界变得更加辽阔。
-就像世界变得
+我们多学一门外语也是为了自己能多一扇窗户多了解外面的世界。
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU2NzU5NTIsMTM3NDc5MTQ0NSwtOD
-U3MTM3NzM3LDEyNTUzNTk0MDksMTQ2NDYzNDk4OSwtMTAyMjg1
-NDIwNCwtMTgwMjUxMjgwMCwtNTUzOTI5NDYxLC0xMzUwNzkzNj
-c5XX0=
+eyJoaXN0b3J5IjpbMTI0NzEwMjQ0MywtMTcwNTY3NTk1MiwxMz
+c0NzkxNDQ1LC04NTcxMzc3MzcsMTI1NTM1OTQwOSwxNDY0NjM0
+OTg5LC0xMDIyODU0MjA0LC0xODAyNTEyODAwLC01NTM5Mjk0Nj
+EsLTEzNTA3OTM2NzldfQ==
 -->
