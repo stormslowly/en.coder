@@ -6,6 +6,8 @@
 
 三天前 twitter 大号 @nixcraft 发起了一个投票，问问大家最喜欢什么类型的 ***hub***
 
+![](http://cdn2.51ulong.com/18-9-28/84667635.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzkyOTQ2MSwtMTM1MDc5MzY3OV19
+eyJoaXN0b3J5IjpbMTMyMTk5NTYzNiwtNTUzOTI5NDYxLC0xMz
+UwNzkzNjc5XX0=
 -->
