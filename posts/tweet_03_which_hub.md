@@ -9,7 +9,10 @@
 ![hub vote](http://cdn2.51ulong.com/18-9-28/84667635.jpg)
 
 投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思，pshu 的有点为难了。但是从整个统计来看 DockerHub 似乎不太受大家欢迎。pshu 思考了下，猜测了下大概像你安装一个不主动提醒升级的软件，自然装完就忘记了；Docker Image 用完了基本就再不去看有没有更新了。
+
+![hub](http://cdn2.51ulong.com/18-9-28/74269558.jpg)
+程序员爱去的地方都叫 Hub，那程序员xi'bu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk3MDgwNTksLTEwMjI4NTQyMDQsLT
-E4MDI1MTI4MDAsLTU1MzkyOTQ2MSwtMTM1MDc5MzY3OV19
+eyJoaXN0b3J5IjpbNTgyMDMxMzEwLC0xMDIyODU0MjA0LC0xOD
+AyNTEyODAwLC01NTM5Mjk0NjEsLTEzNTA3OTM2NzldfQ==
 -->
