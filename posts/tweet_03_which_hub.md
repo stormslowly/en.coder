@@ -17,14 +17,14 @@
 
 好了这一推最后还是说点有营养的东西吧。最近有蛮多的大佬都出来说要退休了。我的 Geek 之神 Linus 前段时间也宣布自己要休息一段时间，并反省自己之前的“大嘴炮”的行为。
 
-虽然 Linus 在邮件中经常抨击犯错的开发人员。但是 Linus 有一个观点：所有的尊重应该是凭自己能力赢得的。同样在一个这么复杂和庞大的社区中需要能获得尊重的话，当然要拿出你所有的实力；所谓的礼貌和尊重，对打造出一个内核没有什么直接的帮助。
+虽然 Linus 在邮件中经常抨击犯错的开发人员。但是 Linus 有一个观点：“所有的尊重应该是凭自己能力赢得的。” 我还是很认同的。同样在一个这么复杂和庞大的社区中需要能获得尊重的话，当然要拿出你所有的实力；所谓的礼貌和尊重，对打造出一个内核没有什么直接的帮助。
 
 视频我已经搬进来，大家一起来练听力吧。
 
 ![linus](http://cdn2.51ulong.com/18-9-28/2928032.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNTcxNTQwLDEzNzQ3OTE0NDUsLTg1Nz
-EzNzczNywxMjU1MzU5NDA5LDE0NjQ2MzQ5ODksLTEwMjI4NTQy
-MDQsLTE4MDI1MTI4MDAsLTU1MzkyOTQ2MSwtMTM1MDc5MzY3OV
-19
+eyJoaXN0b3J5IjpbLTg1MzA1MDM2MSwxMzc0NzkxNDQ1LC04NT
+cxMzc3MzcsMTI1NTM1OTQwOSwxNDY0NjM0OTg5LC0xMDIyODU0
+MjA0LC0xODAyNTEyODAwLC01NTM5Mjk0NjEsLTEzNTA3OTM2Nz
+ldfQ==
 -->
