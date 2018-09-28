@@ -8,9 +8,10 @@
 
 ![hub vote](http://cdn2.51ulong.com/18-9-28/84667635.jpg)
 
-投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思。pshu 的有点为难了。
+投票的结果还是很符合实际情况的吧？如果你问第一个选项是什么意思，pshu 的有点为难了。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI1MTI4MDAsLTU1MzkyOTQ2MSwtMT
-M1MDc5MzY3OV19
+eyJoaXN0b3J5IjpbLTEwMjI4NTQyMDQsLTE4MDI1MTI4MDAsLT
+U1MzkyOTQ2MSwtMTM1MDc5MzY3OV19
 -->
