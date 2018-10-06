@@ -4,6 +4,9 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 最近看到了一篇很文章,标题的大意就是:程序员的工资为什么不和他们的工作效率成正比。现在越来越多的人认同这个观点: 程序员和程序员之间的工作效率的差别是成百上千的, 书面语一点说就是相差好几个数量级(orders of magnitude)。但是你去招聘网站看看，似乎程序员的最高工资和平均工资不会相差好几个数量级。
 
+在软件行业中的高效相对于其他行业（比如销售），更难被老板发现，也更难被老板激励。其中一点就是程序员的工作不好度量。即使用
+
+
 文章虽然比较短, 但是内容还是比较有意思的.当然还有一些神回复也非常的有意思. 
 
 今天就和大家简单聊聊这边文章.  
@@ -11,7 +14,6 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 高效的程序员一般的去向是，（1）跳槽去和其他高效的程序员一起工作，（2）直接自己创业
 
-在软件行业中的高效相对于其他行业（比如销售），更难被老板发现，也更难被老板激励。其中一点就是程序员的工作不要度量。
 
 程序员完成工作的最高境界就不通过写代码就完成。比如高效的程序员可以辨认某类问题根本就不要解决，自然就不写代码了；通过找到可复用的代码、模块来解决问题；甚至跳脱出问题的之外，使用一些小伎俩。
 
@@ -34,9 +36,10 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTM4MDUwMCw2MzE2ODg4NDIsMTU5OT
-Y5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNTk1MTM2NzUx
-LDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1NjUzMCwxNz
-Q5NjU4ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MCwxMDM5ODI3
-MDE3LDM5MzEyNjMxMSwtMTYyNDMyNDAzNV19
+eyJoaXN0b3J5IjpbMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMT
+Y4ODg0MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkw
+LC01OTUxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNT
+gxODU2NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMTY4NzM1
+NDgwLDEwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0MDM1XX
+0=
 -->
