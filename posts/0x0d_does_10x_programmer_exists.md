@@ -1,4 +1,4 @@
-比普通程序员高效10倍的程序员存在吗？ 
+如何成为一个比普通程序员高效10倍的程序员？ 
 --- 
 source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/  
 
@@ -10,7 +10,7 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 然而代码写得多也不能代表效率高。更多时候的效率会是体现在如何写更少的代码来完成工作。少写代码，甚至不写代码就完成工作是程序员工作的最高境界。比如高效的程序员可以辨认某类问题根本就不要解决，自然就不写代码了；通过找到可复用的代码、模块来解决问题；甚至跳脱出问题的之外，使用一些小伎俩。而程序员的工作效率不好度量一个原因就是，工作效果的体现具有滞后性。这些高效方式的效果很难被马上发现，甚至会被那种“会叫的孩子有奶喝”类型程序员先抢了风头。可是等真正发现高效方式的有厉害之处的时候，高手已经跳槽去其他地方或者创业去了。这种高效表现的滞后性也是程序员工作不能得到合理对待的一方面因素。
 
-个人觉得这并不是真正意义上的高效的程序员，这只是在某一个点上的高效的表现。pshu 认为的高效应该是一个更高层次的高效。
+那上面提高效率方式，pshu 觉得只是一个“术”的表现。应该有一个个人觉得这并不是真正意义上的高效的程序员，这只是在某一个点上的高效的表现。更高层次的高效。
 
 
 示例1： 不要看表面
@@ -27,10 +27,10 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MjA3OTE3LDEwNDk0MDQzMDIsMTg2Mj
-I1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0MiwxNTk5Njk2Nzk5
-LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OTUxMzY3NTEsMTEyMT
-AxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2NTMwLDE3NDk2NTg4
-MzMsMTMxMDcwODgzMiwtMTY4NzM1NDgwLDEwMzk4MjcwMTcsMz
-kzMTI2MzExLC0xNjI0MzI0MDM1XX0=
+eyJoaXN0b3J5IjpbLTgxMzY2NDM0MCwxMDQ5NDA0MzAyLDE4Nj
+IyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4NDIsMTU5OTY5Njc5
+OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNTk1MTM2NzUxLDExMj
+EwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1NjUzMCwxNzQ5NjU4
+ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MCwxMDM5ODI3MDE3LD
+M5MzEyNjMxMSwtMTYyNDMyNDAzNV19
 -->
