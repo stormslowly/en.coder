@@ -2,9 +2,9 @@
 --- 
 source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/  
 
-最近看到了一篇很文章,标题的大意就是:程序员的工资为什么不和他们的工作效率成正比。现在越来越多的人认同这个观点: 程序员和程序员之间的工作效率的差别是成百上千的, 书面语一点说就是相差好几个数量级(orders of magnitude)。但是你去招聘网站看看，程序员的最高工资和平均工资绝对不会相差好几个数量级。
+最近看到了一篇很文章,标题的大意就是：程序员的工资为什么不和他们的工作效率成正比。现在越来越多的人认同这个观点：程序员和程序员之间的工作效率的差别是成百上千的, 书面语一点说就是相差好几个数量级(orders of magnitude)。但是你去招聘网站看看，程序员的最高工资和平均工资绝对不会相差好几个数量级。
 
-原因就在于在软件行业中的高效相对于其他行业（比如销售），更难被老板发现，也就更难被老板激励。其中一点就是程序员的工作效率不好度量。假设你是一个简单粗暴的老板，用程序员写的代码行数来衡量自己员工的效率。环视下你的四周的开发人员，找一个你认为最菜鸡的同事，再找一个你认为最牛的程序员，到版本管理系统里面查查看最近几天两个人提交了多少代码，比较一下会不会相差10倍以上呢？ 一般来说能够相差2-3倍已经非常的吓人了。
+原因就在于在软件行业中的高效相对于其他行业（比如销售）更难被老板发现，也就更难被老板激励。其中一点就是程序员的工作效率不好度量。假设你是一个简单粗暴的老板，用程序员写的代码行数来衡量自己员工的效率。环视下你的四周的开发人员，找一个你认为最菜鸡的同事，再找一个你认为最牛的程序员，到版本管理系统里面查查看最近几天两个人提交了多少代码，比较一下会不会相差10倍以上呢？ 一般来说能够相差2-3倍已经非常的吓人了。
 
 ![bill gates](http://cdn2.51ulong.com/18-9-28/41682812.jpg)
 
@@ -37,10 +37,10 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA0NjMxMzksMTA0OTQwNDMwMiwxOD
-YyMjU5NzE2LC04NTkzODA1MDAsNjMxNjg4ODQyLDE1OTk2OTY3
-OTksODc4NzE0OTQ5LDE3NDA0NDE5OTAsLTU5NTEzNjc1MSwxMT
-IxMDE0MDE1LC02Nzk1MjkxMzAsLTE1ODE4NTY1MzAsMTc0OTY1
-ODgzMywxMzEwNzA4ODMyLC0xNjg3MzU0ODAsMTAzOTgyNzAxNy
-wzOTMxMjYzMTEsLTE2MjQzMjQwMzVdfQ==
+eyJoaXN0b3J5IjpbMjU5ODQ0ODgzLDEwNDk0MDQzMDIsMTg2Mj
+I1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0MiwxNTk5Njk2Nzk5
+LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OTUxMzY3NTEsMTEyMT
+AxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2NTMwLDE3NDk2NTg4
+MzMsMTMxMDcwODgzMiwtMTY4NzM1NDgwLDEwMzk4MjcwMTcsMz
+kzMTI2MzExLC0xNjI0MzI0MDM1XX0=
 -->
