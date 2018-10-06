@@ -10,7 +10,55 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 然而代码写得多也不能代表效率高。更多时候的效率会是体现在如何写更少的代码来完成工作。少写代码，甚至不写代码就完成工作是程序员工作的最高境界。比如高效的程序员可以辨认某类问题根本就不要解决，自然就不写代码了；通过找到可复用的代码、模块来解决问题；甚至跳脱出问题的之外，使用一些小伎俩。而程序员的工作效率不好度量一个原因就是，工作效果的体现具有滞后性。这些高效方式的效果很难被马上发现，甚至会被那种“会叫的孩子有奶喝”类型程序员先抢了风头。可是等真正发现高效方式的有厉害之处的时候，高手已经跳槽去其他地方或者创业去了。这种高效表现的滞后性也是程序员工作不能得到合理对待的一方面因素。
 
-那上面提高效率方式，pshu 觉得只是一个“术”的表现。应该有一个更高层次的高效。
+那上面提高效率方式，pshu 觉得只是一个“术”的表现。应该有一个更高层次的高效。为了说明清楚这个问题，首先需要对软件开发做一个简单的模型。我们可以看看自己每天做的工作大致是什么构成：***功能开发和维护***。通俗的说就是，挖一些新的坑和填昨天挖下的坑。如果挖坑的速度比填坑的速度快的话，项目肯定完蛋。反过来的话还有点希望。那这样的一个模型的话就想。就和我们的银行按揭非常的像。填以前挖的坑就是付利息，开发新功能就归还本金。按揭全部还清就是项目完结之日。
+
+  
+
+好了，那我们来用按揭的例子看下什么是10倍的还贷速度。
+
+  
+
+>伦敦召开的2009 XP日会议上，Google的Mark Striebeck报告了Google对延迟修复缺陷的成本估计。
+
+Google估算出在程序员引入bug后马上修复它要花费5美元。同样的缺陷，如果当时逃脱了程序员的眼睛，而是在运行整个构建后才发现它，那么要花费50美元来修复。如果在集成测试时发现了这个缺陷，成本飙升到500美元，而到了系统测试阶段，成本高达5000美元。
+
+  
+
+举例：贷款 100000，利息 5 % 。
+
+如果每月还款 454.14 50年还清贷款。
+
+那如果每月还款 1887.12， 5年还清
+
+虽然每月增加了3倍多的还款，但是最终的效果是还款速度变成了10倍。
+
+  
+
+  
+
+那再软件开发中的数据呢。刚才说了天坑就是需要支付的利息。5%的利息其实在软件行业中算太低了。根据 XP 软件修复的车本会按照几天或者几周的速度10倍的增长。那再我们的软件开发的模型中，把利率变成 100%会怎么样呢。
+
+  
+
+  
+
+贷款 100000，利率100 % 。
+
+50年做完项目, 没有按揭还款 8,333.33
+
+  
+
+  
+
+现在让各位听读者和听众老爷们猜想下，如果要5年做完项目，每一个月按揭多少钱。
+
+  
+
+8,402.31
+
+  
+
+只需要多付出1%都不到，就能提速10倍完成任务。之所以如此的反直觉，就是因为大家忽略了复利的威力。
 
 
 示例1： 不要看表面
@@ -27,10 +75,10 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNzA1MjA4LDEwNDk0MDQzMDIsMTg2Mj
-I1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0MiwxNTk5Njk2Nzk5
-LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OTUxMzY3NTEsMTEyMT
-AxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2NTMwLDE3NDk2NTg4
-MzMsMTMxMDcwODgzMiwtMTY4NzM1NDgwLDEwMzk4MjcwMTcsMz
-kzMTI2MzExLC0xNjI0MzI0MDM1XX0=
+eyJoaXN0b3J5IjpbMTY5NDg1Mzc3NSwxMDQ5NDA0MzAyLDE4Nj
+IyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4NDIsMTU5OTY5Njc5
+OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNTk1MTM2NzUxLDExMj
+EwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1NjUzMCwxNzQ5NjU4
+ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MCwxMDM5ODI3MDE3LD
+M5MzEyNjMxMSwtMTYyNDMyNDAzNV19
 -->
