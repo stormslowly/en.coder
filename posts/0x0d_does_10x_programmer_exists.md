@@ -6,7 +6,7 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 原因就在于在软件行业中的高效相对于其他行业（比如销售），更难被老板发现，也更难被老板激励。其中一点就是程序员的工作不好度量。试试用最简单粗暴的代码行数来衡量，环视下你的四周的开发人员，一个你认为最菜鸡的同事，再找一个你认为最牛的程序员，到版本管理系统里面查查看最近几天两个人提交了多少代码，比较一下会不会相差10倍以上呢。 一般来说能够相差2-3倍已经非常的吓人了。
 
-
+![bill gates](http://cdn2.51ulong.com/18-9-28/41682812.jpg)
 
 文章虽然比较短, 但是内容还是比较有意思的.当然还有一些神回复也非常的有意思. 
 
@@ -32,15 +32,15 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 当然我也知道通过代码行数来衡量程序员的效率是非常不合理的度量方式。Bill Gates 就说过：“用代码行数来衡量程序员的进度，就相当于用飞机重量来衡量造飞机的进度。” 有人也说要完成的 feature 数目来衡量，那在相同的代码基础上也很难拉开到10倍百倍的效率。
 
-![bill gates](http://cdn2.51ulong.com/18-9-28/41682812.jpg)   
+   
 
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk1ODM2NDQsMTg2MjI1OTcxNiwtOD
-U5MzgwNTAwLDYzMTY4ODg0MiwxNTk5Njk2Nzk5LDg3ODcxNDk0
-OSwxNzQwNDQxOTkwLC01OTUxMzY3NTEsMTEyMTAxNDAxNSwtNj
-c5NTI5MTMwLC0xNTgxODU2NTMwLDE3NDk2NTg4MzMsMTMxMDcw
-ODgzMiwtMTY4NzM1NDgwLDEwMzk4MjcwMTcsMzkzMTI2MzExLC
-0xNjI0MzI0MDM1XX0=
+eyJoaXN0b3J5IjpbMTA0OTQwNDMwMiwxODYyMjU5NzE2LC04NT
+kzODA1MDAsNjMxNjg4ODQyLDE1OTk2OTY3OTksODc4NzE0OTQ5
+LDE3NDA0NDE5OTAsLTU5NTEzNjc1MSwxMTIxMDE0MDE1LC02Nz
+k1MjkxMzAsLTE1ODE4NTY1MzAsMTc0OTY1ODgzMywxMzEwNzA4
+ODMyLC0xNjg3MzU0ODAsMTAzOTgyNzAxNywzOTMxMjYzMTEsLT
+E2MjQzMjQwMzVdfQ==
 -->
