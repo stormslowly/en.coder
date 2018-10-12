@@ -9,10 +9,11 @@
 4. the-Q
 5. https://twitter.com/awkwardgoogle
 6. https://twitter.com/kurashiru0119
+7. https://twitter.com/WASTEDCLlPS
 
 pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好内容太“湿”，目前依靠着自己死皮赖脸的叫各种同学同事转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzYyMDI0LC0xMjIyMjMwMTI5LC0zOT
-Q0Mzk4NzAsMjAyOTgxODYzNCwxNTU1MDQ2ODg2LDE3Mjg3NTEz
-MDcsLTM5NzE2MzczNV19
+eyJoaXN0b3J5IjpbLTE2NzIxOTgwNTMsMTk0MzYyMDI0LC0xMj
+IyMjMwMTI5LC0zOTQ0Mzk4NzAsMjAyOTgxODYzNCwxNTU1MDQ2
+ODg2LDE3Mjg3NTEzMDcsLTM5NzE2MzczNV19
 -->
