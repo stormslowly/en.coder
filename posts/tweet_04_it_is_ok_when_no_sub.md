@@ -13,13 +13,14 @@
 
 pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好或者内容太“湿”，目前依靠着自己死皮赖脸的叫同学同事各种转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。今天就介绍6个 YouTube 和 twitter 账号。
 
+###  Primitive Technology
 第一个介绍的必须是 primitive technology 这个 Youtube 频道。这可能是整个 Youtube 中唯一一个全视频一言不发，还有800多万关注者的神人了。 primitive technology 直译过来就是原始技术。在这个频道里面会演示各种古老的技术，比如钻木取火，烧土制陶，编绳搭棚。主人公在视频也是一言不发默默干活，所以不管你有没有英语基础绝对可以看懂。当然如果你想提高英语，可以打开字幕，这么热门的节目每更新一集就有热心的网友上去添加字幕了。
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDcwNTA5MCwtMTE1NzYyMTE5MSwtMT
-Y3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIyMzAxMjksLTM5NDQz
-OTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4ODYsMTcyODc1MTMwNy
-wtMzk3MTYzNzM1XX0=
+eyJoaXN0b3J5IjpbLTEwOTIwMTg5OTAsLTExNTc2MjExOTEsLT
+E2NzIxOTgwNTMsMTk0MzYyMDI0LC0xMjIyMjMwMTI5LC0zOTQ0
+Mzk4NzAsMjAyOTgxODYzNCwxNTU1MDQ2ODg2LDE3Mjg3NTEzMD
+csLTM5NzE2MzczNV19
 -->
