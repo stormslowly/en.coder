@@ -16,13 +16,14 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 ###  Primitive Technology
 第一个介绍的必须是 primitive technology 这个 Youtube 频道。这可能是整个 Youtube 中唯一一个全视频一言不发，还有800多万关注者的神人了。 primitive technology 直译过来就是原始技术。在这个频道里面会演示各种古老的技术，比如钻木取火，烧土制陶，编绳搭棚。主人公在视频也是一言不发默默干活，所以不管你有没有英语基础绝对可以看懂。当然如果你想提高英语，可以打开字幕，这么热门的节目每更新一集就有热心的网友上去添加字幕了。所以这样的节目休闲学习两相宜5星推荐。
 
-##
+### My Modern Met
 
+和 Primitive Technology 一样全程是没人说话的，但是
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzQ0OTMwLC0xMDkyMDE4OTkwLC0xMT
-U3NjIxMTkxLC0xNjcyMTk4MDUzLDE5NDM2MjAyNCwtMTIyMjIz
-MDEyOSwtMzk0NDM5ODcwLDIwMjk4MTg2MzQsMTU1NTA0Njg4Ni
-wxNzI4NzUxMzA3LC0zOTcxNjM3MzVdfQ==
+eyJoaXN0b3J5IjpbMjAzMjUzMTA0MSwtMTA5MjAxODk5MCwtMT
+E1NzYyMTE5MSwtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIy
+MzAxMjksLTM5NDQzOTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4OD
+YsMTcyODc1MTMwNywtMzk3MTYzNzM1XX0=
 -->
