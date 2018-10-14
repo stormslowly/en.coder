@@ -12,10 +12,10 @@
 7. https://twitter.com/WASTEDCLlPS
 8. https://twitter.com/cuttingvids
 
-pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好内容太“湿”，目前依靠着自己死皮赖脸的叫各种同学同事转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。
+pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好或者内容太“湿”，目前依靠着自己死皮赖脸的叫同学同事各种转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc2MjExOTEsLTE2NzIxOTgwNTMsMT
-k0MzYyMDI0LC0xMjIyMjMwMTI5LC0zOTQ0Mzk4NzAsMjAyOTgx
-ODYzNCwxNTU1MDQ2ODg2LDE3Mjg3NTEzMDcsLTM5NzE2MzczNV
-19
+eyJoaXN0b3J5IjpbOTMwMjUzMjI2LC0xMTU3NjIxMTkxLC0xNj
+cyMTk4MDUzLDE5NDM2MjAyNCwtMTIyMjIzMDEyOSwtMzk0NDM5
+ODcwLDIwMjk4MTg2MzQsMTU1NTA0Njg4NiwxNzI4NzUxMzA3LC
+0zOTcxNjM3MzVdfQ==
 -->
