@@ -14,9 +14,9 @@
 
 pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好或者内容太“湿”，目前依靠着自己死皮赖脸的叫同学同事各种转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。今天就介绍6个 YouTube 和 twitter 账号。
 
-第一个介绍的必须是
+第一个介绍的必须是 primitive technology 这个 Youtube 频道。这可能是整个 Youtube 中唯一一个全视频一言不发然后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mjc1ODI1MSwtMTE1NzYyMTE5MSwtMT
+eyJoaXN0b3J5IjpbMTkzOTIxNzI5OCwtMTE1NzYyMTE5MSwtMT
 Y3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIyMzAxMjksLTM5NDQz
 OTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4ODYsMTcyODc1MTMwNy
 wtMzk3MTYzNzM1XX0=
