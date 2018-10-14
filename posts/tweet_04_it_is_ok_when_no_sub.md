@@ -18,11 +18,11 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 
 ### My Modern Met
 
-和 Primitive Technology 一样全程是没人说话的，但是
+和 Primitive Technology 一样全程是没人说话的，但是 MMM 还有点配乐，而内容方面是博主在艺术品创造上的
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjUzMTA0MSwtMTA5MjAxODk5MCwtMT
+eyJoaXN0b3J5IjpbLTM0ODcyNjcwNywtMTA5MjAxODk5MCwtMT
 E1NzYyMTE5MSwtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIy
 MzAxMjksLTM5NDQzOTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4OD
 YsMTcyODc1MTMwNywtMzk3MTYzNzM1XX0=
