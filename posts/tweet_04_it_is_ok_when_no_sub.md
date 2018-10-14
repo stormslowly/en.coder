@@ -19,11 +19,11 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 
 ### My Modern Met
 
-和 Primitive Technology 一样全程是没人说话的，但是 MMM 还有点配乐，而内容方面是博主在艺术品创造上的见闻。这个频道不仅让你看到了富有艺术气息的作品，更让你看到艺术创作的过程。艺术是人类共通的语言，kan'zh'yang'd
+和 Primitive Technology 一样全程是没人说话的，但是 MMM 还有点配乐，而内容方面是博主在艺术品创造上的见闻。这个频道不仅让你看到了富有艺术气息的作品，更让你看到艺术创作的过程。艺术是人类共通的语言，看这样的节目自然不在你的英语水平如何了。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0MTQ0MSwyMTQ0NTY1NDc3LDEzMD
+eyJoaXN0b3J5IjpbLTEzMzQzMDMyNywyMTQ0NTY1NDc3LDEzMD
 EyODAxODMsLTEwOTIwMTg5OTAsLTExNTc2MjExOTEsLTE2NzIx
 OTgwNTMsMTk0MzYyMDI0LC0xMjIyMjMwMTI5LC0zOTQ0Mzk4Nz
 AsMjAyOTgxODYzNCwxNTU1MDQ2ODg2LDE3Mjg3NTEzMDcsLTM5
