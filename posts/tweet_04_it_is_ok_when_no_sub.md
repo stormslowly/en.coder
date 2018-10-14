@@ -4,12 +4,13 @@
 今天给大家推荐5个即使是英语0基础的码农，也可以看看津津有味的 youtube 和 tiwtter 账号。
 
 1. primitive technology
-3. My Modern Met
-4. the-Q
-5. https://twitter.com/awkwardgoogle
-6. https://twitter.com/kurashiru0119
-7. https://twitter.com/WASTEDCLlPS
-8. https://twitter.com/cuttingvids
+2. My Modern Met
+3. the-Q
+4. https://twitter.com/awkwardgoogle
+5. https://twitter.com/kurashiru0119
+6. https://twitter.com/WASTEDCLlPS
+7. https://twitter.com/cuttingvids
+8. https://twitter.com/ocdvids
 
 pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好或者内容太“湿”，目前依靠着自己死皮赖脸的叫同学同事各种转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。今天就介绍6个 YouTube 和 twitter 账号。
 
@@ -22,8 +23,9 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTI4MDE4MywtMTA5MjAxODk5MCwtMT
-E1NzYyMTE5MSwtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIy
-MzAxMjksLTM5NDQzOTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4OD
-YsMTcyODc1MTMwNywtMzk3MTYzNzM1XX0=
+eyJoaXN0b3J5IjpbMTE4ODIwMDc2NywxMzAxMjgwMTgzLC0xMD
+kyMDE4OTkwLC0xMTU3NjIxMTkxLC0xNjcyMTk4MDUzLDE5NDM2
+MjAyNCwtMTIyMjIzMDEyOSwtMzk0NDM5ODcwLDIwMjk4MTg2Mz
+QsMTU1NTA0Njg4NiwxNzI4NzUxMzA3LC0zOTcxNjM3MzVdfQ==
+
 -->
