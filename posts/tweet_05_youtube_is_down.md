@@ -41,12 +41,14 @@ Youtube 挂了！
 
 > Have you tried putting in rice?
 
-你有没有试过把服务器放到大米里面？ （pshu 注：手机进水了，一般会把它放在大米里面干燥下在使用，这条回事）
+你有没有试过把服务器放到大米里面？ （pshu 注：手机进水了，一般会把它放在大米里面干燥下在使用，这条回事像是暗示服务器进水了）
 
 > I was just restarting my phone wondering why it was not working
 
+我都重启了好多次手机了，差点以为手机坏了
+
 好了，youtube 就这么挂了，看来pshu今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjkyODg3MSwxNzg2MDEyMDM4LC0xMD
+eyJoaXN0b3J5IjpbLTIwOTMwMDAxNCwxNzg2MDEyMDM4LC0xMD
 k0MzkwODE0LDEyODcxMTYzLC0xNzExNjMyMTU5XX0=
 -->
