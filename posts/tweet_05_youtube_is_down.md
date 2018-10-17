@@ -29,8 +29,11 @@ Youtube 挂了！
 
 >谢谢你们报告了 Youtube，Youtube TV， Youtube 音乐的访问问题。我们正在抢修，修复后会第一时间通知大家。非常抱歉给您带来不便，有最新消息我们会即时通知大家。
 
+再看看这条 tweet 的评论、点赞和转发的数据。我这里摘几条有意思的牌；u
+
+
 好了，youtube 就这么挂了，看来pshu今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTM4NzU1NywtMTA5NDM5MDgxNCwxMj
+eyJoaXN0b3J5IjpbLTQ1OTc2NTMyMiwtMTA5NDM5MDgxNCwxMj
 g3MTE2MywtMTcxMTYzMjE1OV19
 -->
