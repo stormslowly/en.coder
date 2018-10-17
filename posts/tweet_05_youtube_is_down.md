@@ -10,10 +10,9 @@ Youtube 挂了！
 各路网友就发推抱怨调戏了
 
 ![fire](http://cdn2.51ulong.com/18-10-17/66587278.jpg)
-
-
+对于某些人来说 youtube down 机了就相当于整个互联网(entire internet)都挂了.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMzEwNjM4XX0=
+eyJoaXN0b3J5IjpbMzc3Mzc1OTVdfQ==
 -->
