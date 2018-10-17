@@ -27,10 +27,10 @@ Youtube 挂了！
 目前为止还没看到 youtube 对本次事故的解释，youtube team 的twitter 账号发了一个让不咸不谈的 tweet 让大家耐心等待。
 ![](http://cdn2.51ulong.com/18-10-17/14545767.jpg)
 
->谢谢你们报告了 Youtube，Youtube TV， Youtube 音乐的访问问题。我们正在抢修，修复后会第一时间通知大家。非常抱歉给您带来不便，我们也会
+>谢谢你们报告了 Youtube，Youtube TV， Youtube 音乐的访问问题。我们正在抢修，修复后会第一时间通知大家。非常抱歉给您带来不便，有最新消息我们会即时通知大家。
 
 好了，youtube 就这么挂了，看来pshu今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ5NjExNzMsLTEwOTQzOTA4MTQsMT
-I4NzExNjMsLTE3MTE2MzIxNTldfQ==
+eyJoaXN0b3J5IjpbMTk1NTM4NzU1NywtMTA5NDM5MDgxNCwxMj
+g3MTE2MywtMTcxMTYzMjE1OV19
 -->
