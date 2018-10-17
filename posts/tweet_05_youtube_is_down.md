@@ -18,7 +18,8 @@ Youtube 挂了！
 当然有些人才(intellectual：有智慧的人) 并不受此次事故的影响。
 ![](http://cdn2.51ulong.com/18-10-17/59131773.jpg)
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzExNjMsLTE3MTE2MzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTEzMTk1OTI3MjMsMTI4NzExNjMsLTE3MT
+E2MzIxNTldfQ==
 -->
