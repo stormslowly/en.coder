@@ -23,7 +23,9 @@ Youtube 挂了！
 
 当然作为程序员还是要多学习下别人的500界面，你看别的程序猿画的多好看哈。
 ![](http://cdn2.51ulong.com/18-10-17/23562772.jpg)
+
+好了，youtube 就这么挂了，看来我今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMxMzM2LDEyODcxMTYzLC0xNzExNj
+eyJoaXN0b3J5IjpbODA2NTYzMDA1LDEyODcxMTYzLC0xNzExNj
 MyMTU5XX0=
 -->
