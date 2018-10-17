@@ -37,13 +37,16 @@ Youtube 挂了！
 
 > This is karma for deleting our IDOL views
 
+这个就是你乱删我爱豆视频的报应（karma：报应，轮回）
 
 > Have you tried putting in rice?
+
+你有没有试过把服务器放到大米里面？ （pshu 注：手机进水了，一般会把它放在大米里面干燥下在使用，这条回事）
 
 > I was just restarting my phone wondering why it was not working
 
 好了，youtube 就这么挂了，看来pshu今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM4MTMxMzMsMTc4NjAxMjAzOCwtMT
-A5NDM5MDgxNCwxMjg3MTE2MywtMTcxMTYzMjE1OV19
+eyJoaXN0b3J5IjpbLTM3MjkyODg3MSwxNzg2MDEyMDM4LC0xMD
+k0MzkwODE0LDEyODcxMTYzLC0xNzExNjMyMTU5XX0=
 -->
