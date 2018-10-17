@@ -45,10 +45,10 @@ Youtube 挂了！
 
 > I was just restarting my phone wondering why it was not working
 
-我都重启了好多次手机了，差点以为手机坏了
+我都重启了好多次手机了，差点以为手机坏了。（pshu 注：youtube 就像国外了 baidu 了，用来看看自己是不是断网了）
 
 好了，youtube 就这么挂了，看来pshu今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMwMDAxNCwxNzg2MDEyMDM4LC0xMD
+eyJoaXN0b3J5IjpbLTU1Mzk3NDg5MywxNzg2MDEyMDM4LC0xMD
 k0MzkwODE0LDEyODcxMTYzLC0xNzExNjMyMTU5XX0=
 -->
