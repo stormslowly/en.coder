@@ -12,12 +12,13 @@ Youtube 挂了！
 ![fire](http://cdn2.51ulong.com/18-10-17/66587278.jpg)
 对于某些人来说 youtube down 机了就相当于整个互联网(entire internet)都挂了.
 
-
+![](http://cdn2.51ulong.com/18-10-17/62083754.jpg)
+这个时候也是大家在 twitter 上 show 自己的表情包的时候了。
 
 当然有些人才(intellectual：有智慧的人) 并不受此次事故的影响。
 ![](http://cdn2.51ulong.com/18-10-17/59131773.jpg)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE2MzIxNTldfQ==
+eyJoaXN0b3J5IjpbMTI4NzExNjMsLTE3MTE2MzIxNTldfQ==
 -->
