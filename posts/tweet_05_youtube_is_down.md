@@ -33,10 +33,17 @@ Youtube 挂了！
 
 >Now I know how serious my youtube addiction is. 
 
+现在我知道我对 youtube 上瘾有多大了。
+
 > This is karma for deleting our IDOL views
+
+
+> Have you tried putting in rice?
+
+> I was just restarting my phone wondering why it was not working
 
 好了，youtube 就这么挂了，看来pshu今天只能好好写代码了。各位拜拜。到时候我们一起看看 google 对本次事故的解释吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjAxMjAzOCwtMTA5NDM5MDgxNCwxMj
-g3MTE2MywtMTcxMTYzMjE1OV19
+eyJoaXN0b3J5IjpbLTE4NTM4MTMxMzMsMTc4NjAxMjAzOCwtMT
+A5NDM5MDgxNCwxMjg3MTE2MywtMTcxMTYzMjE1OV19
 -->
