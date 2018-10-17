@@ -18,9 +18,12 @@ Youtube 挂了！
 当然有些人才(intellectual：有智慧的人) 并不受此次事故的影响。
 ![](http://cdn2.51ulong.com/18-10-17/59131773.jpg)
 
+还有些“内部人士”直接给出了 youtube 挂掉的原因：拔错网线了！
+![](http://cdn2.51ulong.com/18-10-17/77274430.jpg)
+
 当然作为程序员还是要多学习下别人的500界面，你看别的程序猿画的多好看哈。
 ![](http://cdn2.51ulong.com/18-10-17/23562772.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMxMDUxMzgsMTI4NzExNjMsLTE3MT
-E2MzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTIwODMxMzM2LDEyODcxMTYzLC0xNzExNj
+MyMTU5XX0=
 -->
