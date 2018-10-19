@@ -28,12 +28,13 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 现在推荐几个 twitter 账号。
 
-### 
+### @kurashiru0119
+这么诡异的名字说明这个推主不是一个说英语的。这个账号一个日本的美食推主。这个账号推出的美食食谱非常的简单，而且食谱长度也很多
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE1NTQzODksLTc2ODQzMzk2OCw2Mz
-U2MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3NywxMzAxMjgwMTgz
-LC0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC0xNjcyMTk4MDUzLD
-E5NDM2MjAyNCwtMTIyMjIzMDEyOSwtMzk0NDM5ODcwLDIwMjk4
-MTg2MzQsMTU1NTA0Njg4NiwxNzI4NzUxMzA3LC0zOTcxNjM3Mz
-VdfQ==
+eyJoaXN0b3J5IjpbOTUzMDM2MjA3LC0xNTgxNTU0Mzg5LC03Nj
+g0MzM5NjgsNjM1NjI5MCwtMTMzNDMwMzI3LDIxNDQ1NjU0Nzcs
+MTMwMTI4MDE4MywtMTA5MjAxODk5MCwtMTE1NzYyMTE5MSwtMT
+Y3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIyMzAxMjksLTM5NDQz
+OTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4ODYsMTcyODc1MTMwNy
+wtMzk3MTYzNzM1XX0=
 -->
