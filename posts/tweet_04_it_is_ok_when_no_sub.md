@@ -26,10 +26,11 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 
 The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板和木工量大类型，最近的两个视频分别是 almost 全木做了一辆自行车和做了一柄纸长剑。关注这个频道之后，我实在是控制不了自己的手买了一把胶枪也准备做点什么了。
 
+现在推荐几个 twitter 账号。
 
-
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQyNjAwODgsLTc2ODQzMzk2OCw2Mz
+eyJoaXN0b3J5IjpbLTE1ODE1NTQzODksLTc2ODQzMzk2OCw2Mz
 U2MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3NywxMzAxMjgwMTgz
 LC0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC0xNjcyMTk4MDUzLD
 E5NDM2MjAyNCwtMTIyMjIzMDEyOSwtMzk0NDM5ODcwLDIwMjk4
