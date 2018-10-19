@@ -24,12 +24,13 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 
 ### The-Q
 
-The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板和木工量大类型，最近的两个视频分别是 almost 全木做了一辆自行车和做了一柄纸长剑。
+The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板和木工量大类型，最近的两个视频分别是 almost 全木做了一辆自行车和做了一柄纸长剑。kan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODQzMzk2OCw2MzU2MjkwLC0xMzM0Mz
-AzMjcsMjE0NDU2NTQ3NywxMzAxMjgwMTgzLC0xMDkyMDE4OTkw
-LC0xMTU3NjIxMTkxLC0xNjcyMTk4MDUzLDE5NDM2MjAyNCwtMT
-IyMjIzMDEyOSwtMzk0NDM5ODcwLDIwMjk4MTg2MzQsMTU1NTA0
-Njg4NiwxNzI4NzUxMzA3LC0zOTcxNjM3MzVdfQ==
+eyJoaXN0b3J5IjpbMzEyNTA1OTI4LC03Njg0MzM5NjgsNjM1Nj
+I5MCwtMTMzNDMwMzI3LDIxNDQ1NjU0NzcsMTMwMTI4MDE4Mywt
+MTA5MjAxODk5MCwtMTE1NzYyMTE5MSwtMTY3MjE5ODA1MywxOT
+QzNjIwMjQsLTEyMjIyMzAxMjksLTM5NDQzOTg3MCwyMDI5ODE4
+NjM0LDE1NTUwNDY4ODYsMTcyODc1MTMwNywtMzk3MTYzNzM1XX
+0=
 -->
