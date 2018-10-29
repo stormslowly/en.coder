@@ -9,7 +9,6 @@
 4. https://twitter.com/awkwardgoogle
 5. https://twitter.com/kurashiru0119
 6. https://twitter.com/WASTEDCLlPS
-7. https://twitter.com/cuttingvids
 8. https://twitter.com/ocdvids
 
 pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好或者内容太“湿”，目前依靠着自己死皮赖脸的叫同学同事各种转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。今天就介绍6个 YouTube 和 twitter 账号。
@@ -41,13 +40,13 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 ![wasted](http://cdn2.51ulong.com/18-10-29/2944986.jpg)
 
-后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WastedClips”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。
+后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WASTEDCLlPS”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。当然这个账号还是不要吃外卖的时候看，因为很容易喷饭。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDI1NTM0OSwxNzMyODUwMjY0LDE0ND
-c0MjgyNTcsNjI2NTAwMzksMjAzNjgyODQ4MSwxMjg3ODIwODA4
-LC0yMTMxNjk1MDA3LC0xNjU2NTk4NjUyLC0xNTgxNTU0Mzg5LC
-03Njg0MzM5NjgsNjM1NjI5MCwtMTMzNDMwMzI3LDIxNDQ1NjU0
-NzcsMTMwMTI4MDE4MywtMTA5MjAxODk5MCwtMTE1NzYyMTE5MS
-wtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIyMzAxMjksLTM5
-NDQzOTg3MF19
+eyJoaXN0b3J5IjpbLTExNjkyMTMzNTQsMTg5NDI1NTM0OSwxNz
+MyODUwMjY0LDE0NDc0MjgyNTcsNjI2NTAwMzksMjAzNjgyODQ4
+MSwxMjg3ODIwODA4LC0yMTMxNjk1MDA3LC0xNjU2NTk4NjUyLC
+0xNTgxNTU0Mzg5LC03Njg0MzM5NjgsNjM1NjI5MCwtMTMzNDMw
+MzI3LDIxNDQ1NjU0NzcsMTMwMTI4MDE4MywtMTA5MjAxODk5MC
+wtMTE1NzYyMTE5MSwtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEy
+MjIyMzAxMjldfQ==
 -->
