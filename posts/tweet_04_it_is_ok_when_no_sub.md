@@ -33,9 +33,10 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 ### @ocdvids
 
-这里twitter 账号下有各种治疗强迫症患者的视频和图片。总之这个
+这里twitter 账号下有各种治疗强迫症患者的视频和图片。总之这个账号一看可以看一天，看完之后就“舒服”两个字。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYwMzEwNCwtMjEzMTY5NTAwNywtMT
+eyJoaXN0b3J5IjpbMTI4NzgyMDgwOCwtMjEzMTY5NTAwNywtMT
 Y1NjU5ODY1MiwtMTU4MTU1NDM4OSwtNzY4NDMzOTY4LDYzNTYy
 OTAsLTEzMzQzMDMyNywyMTQ0NTY1NDc3LDEzMDEyODAxODMsLT
 EwOTIwMTg5OTAsLTExNTc2MjExOTEsLTE2NzIxOTgwNTMsMTk0
