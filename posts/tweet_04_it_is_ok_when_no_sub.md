@@ -41,13 +41,13 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 ![wasted](http://cdn2.51ulong.com/18-10-29/2944986.jpg)
 
-后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WastedClips”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些
+后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WastedClips”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjg1MDI2NCwxNDQ3NDI4MjU3LDYyNj
-UwMDM5LDIwMzY4Mjg0ODEsMTI4NzgyMDgwOCwtMjEzMTY5NTAw
-NywtMTY1NjU5ODY1MiwtMTU4MTU1NDM4OSwtNzY4NDMzOTY4LD
-YzNTYyOTAsLTEzMzQzMDMyNywyMTQ0NTY1NDc3LDEzMDEyODAx
-ODMsLTEwOTIwMTg5OTAsLTExNTc2MjExOTEsLTE2NzIxOTgwNT
-MsMTk0MzYyMDI0LC0xMjIyMjMwMTI5LC0zOTQ0Mzk4NzAsMjAy
-OTgxODYzNF19
+eyJoaXN0b3J5IjpbMTg5NDI1NTM0OSwxNzMyODUwMjY0LDE0ND
+c0MjgyNTcsNjI2NTAwMzksMjAzNjgyODQ4MSwxMjg3ODIwODA4
+LC0yMTMxNjk1MDA3LC0xNjU2NTk4NjUyLC0xNTgxNTU0Mzg5LC
+03Njg0MzM5NjgsNjM1NjI5MCwtMTMzNDMwMzI3LDIxNDQ1NjU0
+NzcsMTMwMTI4MDE4MywtMTA5MjAxODk5MCwtMTE1NzYyMTE5MS
+wtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIyMzAxMjksLTM5
+NDQzOTg3MF19
 -->
