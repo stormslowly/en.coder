@@ -41,9 +41,9 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 ![wasted](http://cdn2.51ulong.com/18-10-29/2944986.jpg)
 
-后来看到了，“Wasted” 这个 App 的简介。
+后来看到了，“Wasted” 这个 App 的简介。就觉得这个 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU5ODE0NDAsMTQ0NzQyODI1Nyw2Mj
+eyJoaXN0b3J5IjpbLTE5MjU2NzE4MjQsMTQ0NzQyODI1Nyw2Mj
 Y1MDAzOSwyMDM2ODI4NDgxLDEyODc4MjA4MDgsLTIxMzE2OTUw
 MDcsLTE2NTY1OTg2NTIsLTE1ODE1NTQzODksLTc2ODQzMzk2OC
 w2MzU2MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3NywxMzAxMjgw
