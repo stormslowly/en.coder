@@ -29,12 +29,14 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 现在推荐几个 twitter 账号。
 
 ### @kurashiru0119
-这么诡异的名字说明这个推主不是一个说英语的。这个账号一个日本的美食推主。这个账号推出的美食食谱非常的简单，而且食谱长度也很短。适合周末晚上看看，然后激发第二天自己做饭的冲动。当然了也非常适合在吃外面的时候配饭看了。
+这么诡异的名字说明这个推主不是一个说英语的。这个账号一个日本的美食推主。这个账号推出的美食食谱非常的简单，而且食谱长度也很短。适合周末晚上看看，然后激发第二天自己做饭的冲动。当然了也非常适合在吃外卖的时候配饭看了。
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY1OTg2NTIsLTE1ODE1NTQzODksLT
-c2ODQzMzk2OCw2MzU2MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3
-NywxMzAxMjgwMTgzLC0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC
-0xNjcyMTk4MDUzLDE5NDM2MjAyNCwtMTIyMjIzMDEyOSwtMzk0
-NDM5ODcwLDIwMjk4MTg2MzQsMTU1NTA0Njg4NiwxNzI4NzUxMz
-A3LC0zOTcxNjM3MzVdfQ==
+eyJoaXN0b3J5IjpbMTgxMjU2MDE1LC0xNjU2NTk4NjUyLC0xNT
+gxNTU0Mzg5LC03Njg0MzM5NjgsNjM1NjI5MCwtMTMzNDMwMzI3
+LDIxNDQ1NjU0NzcsMTMwMTI4MDE4MywtMTA5MjAxODk5MCwtMT
+E1NzYyMTE5MSwtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEyMjIy
+MzAxMjksLTM5NDQzOTg3MCwyMDI5ODE4NjM0LDE1NTUwNDY4OD
+YsMTcyODc1MTMwNywtMzk3MTYzNzM1XX0=
 -->
