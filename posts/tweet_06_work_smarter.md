@@ -2,8 +2,8 @@
 ----
 
 
-这个视频出自本次要推荐的一个 twitter 账号 @ZonePhysics。
-
+这个视频出自本次要推荐的一个 twitter 账号 @ZonePhysics。主要是介绍物理相关一些趣闻的账号。
+![ZonePhysics](http://cdn2.51ulong.com/18-10-30/84551261.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE5Mjc0MTRdfQ==
+eyJoaXN0b3J5IjpbMTc3NTg3MDUxNV19
 -->
