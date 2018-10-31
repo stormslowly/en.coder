@@ -1,7 +1,7 @@
-推荐一批即使英语0基础也看得津津有味的东西
+推荐一批即使英语零基础也看得津津有味的东西
 ---
 
-今天给大家推荐5个即使是英语0基础的码农，也可以看看津津有味的 youtube 和 tiwtter 账号。
+今天给大家推荐5个即使是英语零基础的码农，也可以看看津津有味的 youtube 和 tiwtter 账号。
 
 1. primitive technology
 2. My Modern Met
@@ -14,7 +14,7 @@
 pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，同时也想通过公众号来影响更多的码农朋友们一起来学习英语。可能是 pshu 的文笔不好或者内容太“湿”，目前依靠着自己死皮赖脸的叫同学同事各种转发关注，吃力的积累到了360+的粉丝。后来 “p嫂 ” 说，你想要吸引别人来学习英语，就要高点有意思的东西来做诱饵啊。今天就介绍6个 YouTube 和 twitter 账号。
 
 ###  Primitive Technology
-第一个介绍的必须是 primitive technology 这个 Youtube 频道。这可能是整个 Youtube 中唯一一个全视频一言不发，还有800多万关注者的神人了。 primitive technology 直译过来就是原始技术。在这个频道里面会演示各种古老的技术，比如钻木取火，烧土制陶，编绳搭棚。主人公在视频也是一言不发默默干活，所以不管你有没有英语基础绝对可以看懂。当然如果你想提高英语，可以打开字幕，这么热门的节目每更新一集就有热心的网友上去添加字幕了。所以这样的节目休闲学习两相宜5星推荐。
+第一个介绍的必须是 primitive technology 这个 Youtube 频道。这可能是整个 Youtube 中唯一一个全视频一言不发，还有800多万关注者的神人了。 primitive technology 直译过来就是“原始技术”。在这个频道里面会演示各种古老的技术，比如钻木取火，烧土制陶，编绳搭棚。主人公在视频也是一言不发默默干活，所以不管你有没有英语基础绝对可以看懂。当然如果你想提高英语，可以打开字幕，这么热门的节目每更新一集就有热心的网友上去添加字幕了。所以这样的节目休闲学习两相宜5星推荐。
 
 ### My Modern Met
 
@@ -42,11 +42,11 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WASTEDCLlPS”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。当然这个账号还是不要吃外卖的时候看，因为很容易喷饭。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkyMTMzNTQsMTg5NDI1NTM0OSwxNz
-MyODUwMjY0LDE0NDc0MjgyNTcsNjI2NTAwMzksMjAzNjgyODQ4
-MSwxMjg3ODIwODA4LC0yMTMxNjk1MDA3LC0xNjU2NTk4NjUyLC
-0xNTgxNTU0Mzg5LC03Njg0MzM5NjgsNjM1NjI5MCwtMTMzNDMw
-MzI3LDIxNDQ1NjU0NzcsMTMwMTI4MDE4MywtMTA5MjAxODk5MC
-wtMTE1NzYyMTE5MSwtMTY3MjE5ODA1MywxOTQzNjIwMjQsLTEy
-MjIyMzAxMjldfQ==
+eyJoaXN0b3J5IjpbLTI1NTczODI1MSwtMTE2OTIxMzM1NCwxOD
+k0MjU1MzQ5LDE3MzI4NTAyNjQsMTQ0NzQyODI1Nyw2MjY1MDAz
+OSwyMDM2ODI4NDgxLDEyODc4MjA4MDgsLTIxMzE2OTUwMDcsLT
+E2NTY1OTg2NTIsLTE1ODE1NTQzODksLTc2ODQzMzk2OCw2MzU2
+MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3NywxMzAxMjgwMTgzLC
+0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC0xNjcyMTk4MDUzLDE5
+NDM2MjAyNF19
 -->
