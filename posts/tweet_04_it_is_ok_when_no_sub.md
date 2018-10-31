@@ -6,7 +6,6 @@
 1. primitive technology
 2. My Modern Met
 3. the-Q
-4. https://twitter.com/awkwardgoogle
 5. https://twitter.com/kurashiru0119
 6. https://twitter.com/WASTEDCLlPS
 8. https://twitter.com/ocdvids
@@ -42,11 +41,11 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WASTEDCLlPS”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。当然这个账号还是不要吃外卖的时候看，因为很容易喷饭。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgwNjM3MDQsLTI1NTczODI1MSwtMT
-E2OTIxMzM1NCwxODk0MjU1MzQ5LDE3MzI4NTAyNjQsMTQ0NzQy
-ODI1Nyw2MjY1MDAzOSwyMDM2ODI4NDgxLDEyODc4MjA4MDgsLT
-IxMzE2OTUwMDcsLTE2NTY1OTg2NTIsLTE1ODE1NTQzODksLTc2
-ODQzMzk2OCw2MzU2MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3Ny
-wxMzAxMjgwMTgzLC0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC0x
-NjcyMTk4MDUzXX0=
+eyJoaXN0b3J5IjpbMTcyODAwNTgyLC0yNTU3MzgyNTEsLTExNj
+kyMTMzNTQsMTg5NDI1NTM0OSwxNzMyODUwMjY0LDE0NDc0Mjgy
+NTcsNjI2NTAwMzksMjAzNjgyODQ4MSwxMjg3ODIwODA4LC0yMT
+MxNjk1MDA3LC0xNjU2NTk4NjUyLC0xNTgxNTU0Mzg5LC03Njg0
+MzM5NjgsNjM1NjI5MCwtMTMzNDMwMzI3LDIxNDQ1NjU0NzcsMT
+MwMTI4MDE4MywtMTA5MjAxODk5MCwtMTE1NzYyMTE5MSwtMTY3
+MjE5ODA1M119
 -->
