@@ -25,7 +25,7 @@ pshu 写这个码农英语课堂一方面是督促自己不断的学习提高，
 
 The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板和木工量大类型，最近的两个视频分别是 almost 全木做了一辆自行车和做了一柄纸长剑。关注这个频道之后，我实在是控制不了自己的手买了一把胶枪也准备做点什么了。
 
-现在推荐几个 twitter 账号。
+再推荐几个 twitter 账号。
 
 ### @kurashiru0119
 这么诡异的名字说明这个推主不是一个说英语的。这个账号一个日本的美食推主。这个账号推出的美食食谱非常的简单，而且食谱长度也很短。适合周末晚上看看，然后激发第二天自己做饭的冲动。当然了也非常适合在吃外卖的时候配饭看了。
@@ -42,11 +42,11 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WASTEDCLlPS”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。当然这个账号还是不要吃外卖的时候看，因为很容易喷饭。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTczODI1MSwtMTE2OTIxMzM1NCwxOD
-k0MjU1MzQ5LDE3MzI4NTAyNjQsMTQ0NzQyODI1Nyw2MjY1MDAz
-OSwyMDM2ODI4NDgxLDEyODc4MjA4MDgsLTIxMzE2OTUwMDcsLT
-E2NTY1OTg2NTIsLTE1ODE1NTQzODksLTc2ODQzMzk2OCw2MzU2
-MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3NywxMzAxMjgwMTgzLC
-0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC0xNjcyMTk4MDUzLDE5
-NDM2MjAyNF19
+eyJoaXN0b3J5IjpbLTE0MjgwNjM3MDQsLTI1NTczODI1MSwtMT
+E2OTIxMzM1NCwxODk0MjU1MzQ5LDE3MzI4NTAyNjQsMTQ0NzQy
+ODI1Nyw2MjY1MDAzOSwyMDM2ODI4NDgxLDEyODc4MjA4MDgsLT
+IxMzE2OTUwMDcsLTE2NTY1OTg2NTIsLTE1ODE1NTQzODksLTc2
+ODQzMzk2OCw2MzU2MjkwLC0xMzM0MzAzMjcsMjE0NDU2NTQ3Ny
+wxMzAxMjgwMTgzLC0xMDkyMDE4OTkwLC0xMTU3NjIxMTkxLC0x
+NjcyMTk4MDUzXX0=
 -->
