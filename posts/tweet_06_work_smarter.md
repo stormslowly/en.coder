@@ -9,8 +9,10 @@
 
 个人觉得视频亮点是，在视频结束的时候，摩托骑手看见自行车骑手超过他的时候，他尝试通过改变提速。这种开放的思维（open mind）才是 work smarter 的开始。
 
+dang
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjU4OTc0OSwtMTg2NzI4ODY1MSwtMz
-Q4MTA4NTY1LC00MTA5ODc0MSwtMTUzMDY0ODgwMyw2MzU3NDQw
-NjEsMTc3NTg3MDUxNV19
+eyJoaXN0b3J5IjpbLTE5MDY5OTY1MTcsMTg3NjU4OTc0OSwtMT
+g2NzI4ODY1MSwtMzQ4MTA4NTY1LC00MTA5ODc0MSwtMTUzMDY0
+ODgwMyw2MzU3NDQwNjEsMTc3NTg3MDUxNV19
 -->
