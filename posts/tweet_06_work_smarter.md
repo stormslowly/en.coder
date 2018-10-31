@@ -9,10 +9,10 @@
 
 个人觉得视频亮点是，在视频结束的时候，摩托骑手看见自行车骑手超过他的时候，他尝试通过改变提速。这种开放的思维（open mind）才是 work smarter 的开始。
 
-当有新事物出现的时候拥抱它所带来的代价会比不接受最终不接受带来风险小的多
+当有新事物出现的时候拥抱它所带来的代价会比不接受最终不接受带来风险小的多。不妨尝试下 TDD，尝试下新的开发语言，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDMxNDM1MSwxNzM2MzAzNzQ0LDE4Nz
+eyJoaXN0b3J5IjpbLTg1OTE1NjI1OCwxNzM2MzAzNzQ0LDE4Nz
 Y1ODk3NDksLTE4NjcyODg2NTEsLTM0ODEwODU2NSwtNDEwOTg3
 NDEsLTE1MzA2NDg4MDMsNjM1NzQ0MDYxLDE3NzU4NzA1MTVdfQ
 ==
