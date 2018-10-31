@@ -1,7 +1,12 @@
+10个好用的 shell 别名
+----
+原文地址：https://opensource.com/article/18/9/handy-bash-aliases
 
-tu
 
-> Written with [StackEdit](https://stackedit.io/).
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUyNTM5NDksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE4MTI5OTk2OSw3MzA5OTgxMTZdfQ==
 -->
