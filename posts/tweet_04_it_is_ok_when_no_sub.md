@@ -35,17 +35,17 @@ The-Q 是一个 DIY 频道，展示频道主做手工的视频。主要是纸板
 
 ### @WASTEDCLlPS
 
-这 wasted 如何翻译，也让我头疼了很久。浪费的肯定是不对的。国外还有 wasted 是表示醉酒的意思，可是这个系列并不完全是醉酒的视频。
+这 wasted 如何翻译，也让我头疼了很久。“浪费的“肯定是不对的。 Wasted 是表示醉酒的意思，可是这个系列并不完全是醉酒的视频，也不对。
 
 ![wasted](http://cdn2.51ulong.com/18-10-29/2944986.jpg)
 
 后来看到了，“Wasted” 这个 App 的简介。就觉得这个 “WASTEDCLlPS”  就可以翻译成“作死视频”。是的，里面各种作死的视频，有些看得你自己都心疼。当然这个账号还是不要吃外卖的时候看，因为很容易喷饭。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODAwNTgyLC0yNTU3MzgyNTEsLTExNj
-kyMTMzNTQsMTg5NDI1NTM0OSwxNzMyODUwMjY0LDE0NDc0Mjgy
-NTcsNjI2NTAwMzksMjAzNjgyODQ4MSwxMjg3ODIwODA4LC0yMT
-MxNjk1MDA3LC0xNjU2NTk4NjUyLC0xNTgxNTU0Mzg5LC03Njg0
-MzM5NjgsNjM1NjI5MCwtMTMzNDMwMzI3LDIxNDQ1NjU0NzcsMT
-MwMTI4MDE4MywtMTA5MjAxODk5MCwtMTE1NzYyMTE5MSwtMTY3
-MjE5ODA1M119
+eyJoaXN0b3J5IjpbLTUxNzQ2NTQ1NywtMjU1NzM4MjUxLC0xMT
+Y5MjEzMzU0LDE4OTQyNTUzNDksMTczMjg1MDI2NCwxNDQ3NDI4
+MjU3LDYyNjUwMDM5LDIwMzY4Mjg0ODEsMTI4NzgyMDgwOCwtMj
+EzMTY5NTAwNywtMTY1NjU5ODY1MiwtMTU4MTU1NDM4OSwtNzY4
+NDMzOTY4LDYzNTYyOTAsLTEzMzQzMDMyNywyMTQ0NTY1NDc3LD
+EzMDEyODAxODMsLTEwOTIwMTg5OTAsLTExNTc2MjExOTEsLTE2
+NzIxOTgwNTNdfQ==
 -->
