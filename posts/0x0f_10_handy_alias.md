@@ -5,7 +5,7 @@
 
 >How many times have you repeatedly typed out a long command on the command line and wished there was a way to save it for later? This is where Bash aliases come in handy. They allow you to condense long, cryptic commands down to something easy to remember and use. Need some examples to get you started? No problem!
 
-有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用的时候就能jie'shen
+有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。
 
 
 
@@ -15,6 +15,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjM3NjMwNSwxNjM4Njc3MDI4LC03OD
-g2MjM5OTcsMTE4MTI5OTk2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDE3MjMxMjkyLDE2Mzg2NzcwMjgsLTc4OD
+YyMzk5NywxMTgxMjk5OTY5LDczMDk5ODExNl19
 -->
