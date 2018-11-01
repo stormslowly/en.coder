@@ -5,7 +5,7 @@
 
 >How many times have you repeatedly typed out a long command on the command line and wished there was a way to save it for later? This is where Bash aliases come in handy. They allow you to ***condense*** long, ***cryptic*** commands down to something easy to remember and use. Need some examples to get you started? No problem!
 
-有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的，让冗长的命令变得简短 (原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下 )，晦涩难用(cryptic原意是神秘的意思。 )的变得简单易用。直接给你们上例子。
+有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的，让冗长的命令变得简短 *(原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下 )*，晦涩难用(cryptic原意是神秘的意思；程序员常见的变形是 crypto，加密 c'r'y'p't'graph的简写， )的变得简单易用。直接给你们上例子。
 
 
 
@@ -15,7 +15,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzg4NDgxMiw0MTcyMzEyOTIsMTYzOD
-Y3NzAyOCwtNzg4NjIzOTk3LDExODEyOTk5NjksNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTE1ODczODIyNzAsNDE3MjMxMjkyLDE2Mz
+g2NzcwMjgsLTc4ODYyMzk5NywxMTgxMjk5OTY5LDczMDk5ODEx
+Nl19
 -->
