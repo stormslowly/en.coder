@@ -10,7 +10,8 @@
  原文中还顺便提了下，如果你要修改 bash 别名的话是要编辑  `base_profile`  这个文件。这些基础的东西 pshu 就带过了。如果不知道的可以去看下原文。
 
 来的第一个例子就是要解决 cryptic command。`tar` 命令。
-给出的别名 `alias  untar='tar -zxvf '` 
+给出的别名 `alias  untar='tar -zxvf '` 这几个命令行选项是什么意思先不说，我们先看一个
+
 
 
 
@@ -18,8 +19,8 @@
 
 ![咆哮法记 tar 用法](http://cdn2.51ulong.com/18-11-1/56585117.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2ODcxOTQ0LC0xODkxMDQwNjY0LDU1OT
-E3NTk5LC0xNzc1NzU1MTI1LC0xNTIxOTkxNDIyLDQxNzIzMTI5
-MiwxNjM4Njc3MDI4LC03ODg2MjM5OTcsMTE4MTI5OTk2OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExNDI5MzAyOCwtMTg5MTA0MDY2NCw1NT
+kxNzU5OSwtMTc3NTc1NTEyNSwtMTUyMTk5MTQyMiw0MTcyMzEy
+OTIsMTYzODY3NzAyOCwtNzg4NjIzOTk3LDExODEyOTk5NjksNz
+MwOTk4MTE2XX0=
 -->
