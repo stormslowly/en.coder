@@ -9,13 +9,14 @@
 
  原文中还顺便提了下，如果你要修改 bash 别名的话是要编辑  `base_profile`  这个文件。这些基础的东西 pshu 就带过了。如果不知道的可以去看下原文。
 
-来的第一个例子就是要解决 cryptic command。tar
+来的第一个例子就是要解决 cryptic command。`tar` 命令。
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTE4OTg1NCwtMTc3NTc1NTEyNSwtMT
-UyMTk5MTQyMiw0MTcyMzEyOTIsMTYzODY3NzAyOCwtNzg4NjIz
-OTk3LDExODEyOTk5NjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTU5MTc1OTksLTE3NzU3NTUxMjUsLTE1Mj
+E5OTE0MjIsNDE3MjMxMjkyLDE2Mzg2NzcwMjgsLTc4ODYyMzk5
+NywxMTgxMjk5OTY5LDczMDk5ODExNl19
 -->
