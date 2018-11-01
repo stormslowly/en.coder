@@ -3,9 +3,9 @@
 
 上一篇推文讲了，程序员要巧干不要蛮干，注重效率提高。今天再分享一篇提升“微效率”的文章。原文标题：《10 handy Bash aliases for Linux》，原文地址https://opensource.com/article/18/9/handy-bash-aliases 。p叔觉得有几个别名还是挺有用的，除了把这些别名分享给大家，顺便把文章也翻译下一起学习下英语
 
->How many times have you repeatedly typed out a long command on the command line and wished there was a way to save it for later? This is where Bash aliases come in handy. They allow you to ***condense*** long, cryptic commands down to something easy to remember and use. Need some examples to get you started? No problem!
+>How many times have you repeatedly typed out a long command on the command line and wished there was a way to save it for later? This is where Bash aliases come in handy. They allow you to ***condense*** long, ***cryptic*** commands down to something easy to remember and use. Need some examples to get you started? No problem!
 
-有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的。别名让冗长的命令变得简短(原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下。 )，晦涩难用的变得简单易用。直接给你们上例子。
+有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的，让冗长的命令变得简短 (原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下 )，晦涩难用(cryptic原意是神秘的意思。 )的变得简单易用。直接给你们上例子。
 
 
 
@@ -15,7 +15,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTAzMDQ0LDQxNzIzMTI5MiwxNjM4Nj
-c3MDI4LC03ODg2MjM5OTcsMTE4MTI5OTk2OSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTYzMzg4NDgxMiw0MTcyMzEyOTIsMTYzOD
+Y3NzAyOCwtNzg4NjIzOTk3LDExODEyOTk5NjksNzMwOTk4MTE2
+XX0=
 -->
