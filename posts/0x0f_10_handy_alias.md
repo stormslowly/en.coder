@@ -7,13 +7,15 @@
 
 有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的，让冗长的命令变得简短 *(原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下 )*，晦涩难用 (*cryptic原意是神秘的意思；程序员常见的变形是 crypto，加密 cryptograph 的简写，有些命令确实难用的就像加密了一样 )*的变得简单易用。直接给你们上例子。
 
- 原文中还顺便提了下，如果你要修改 bash 别名的话是要编辑  `base_profile`  这个文件。这些基础的东西 pshu 就带过了。
+ 原文中还顺便提了下，如果你要修改 bash 别名的话是要编辑  `base_profile`  这个文件。这些基础的东西 pshu 就带过了。如果不知道的可以去看下原文。
+
+来的第一个例子就是要解决 cryptic command。tar
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU3NTUxMjUsLTE1MjE5OTE0MjIsND
-E3MjMxMjkyLDE2Mzg2NzcwMjgsLTc4ODYyMzk5NywxMTgxMjk5
-OTY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM1NTE4OTg1NCwtMTc3NTc1NTEyNSwtMT
+UyMTk5MTQyMiw0MTcyMzEyOTIsMTYzODY3NzAyOCwtNzg4NjIz
+OTk3LDExODEyOTk5NjksNzMwOTk4MTE2XX0=
 -->
