@@ -12,7 +12,7 @@
 来的第一个例子就是要解决 cryptic command。`tar` 命令。
 给出的别名 `alias  untar='tar -zxvf '` 这几个命令行选项是什么意思先不说，我们先看一个 xkcd 的漫画就知道 tar 是有多少的 cryptic。
 
-
+![xkcd  tar](http://cdn2.51ulong.com/18-11-1/42769127.jpg)
 
 
 
@@ -20,8 +20,8 @@
 
 ![咆哮法记 tar 用法](http://cdn2.51ulong.com/18-11-1/56585117.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzEzMTk5LC0xODkxMDQwNjY0LDU1OT
-E3NTk5LC0xNzc1NzU1MTI1LC0xNTIxOTkxNDIyLDQxNzIzMTI5
-MiwxNjM4Njc3MDI4LC03ODg2MjM5OTcsMTE4MTI5OTk2OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjg3MTI2OTgsLTMzNzEzMTk5LC0xODkxMD
+QwNjY0LDU1OTE3NTk5LC0xNzc1NzU1MTI1LC0xNTIxOTkxNDIy
+LDQxNzIzMTI5MiwxNjM4Njc3MDI4LC03ODg2MjM5OTcsMTE4MT
+I5OTk2OSw3MzA5OTgxMTZdfQ==
 -->
