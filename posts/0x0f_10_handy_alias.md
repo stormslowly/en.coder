@@ -23,10 +23,13 @@
 
 `wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。`alias  wget='wget -c '` 命令可以帮在下载中挂断后恢复下载。这里这个 c 就是***continue***的意思。
 
-## 
+## 生成密码
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjI0MDkxNiwtMTA1NjI5NjM4MiwtMz
-M3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1OTksLTE3NzU3NTUx
-MjUsLTE1MjE5OTE0MjIsNDE3MjMxMjkyLDE2Mzg2NzcwMjgsLT
-c4ODYyMzk5NywxMTgxMjk5OTY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0xMD
+U2Mjk2MzgyLC0zMzcxMzE5OSwtMTg5MTA0MDY2NCw1NTkxNzU5
+OSwtMTc3NTc1NTEyNSwtMTUyMTk5MTQyMiw0MTcyMzEyOTIsMT
+YzODY3NzAyOCwtNzg4NjIzOTk3LDExODEyOTk5NjksNzMwOTk4
+MTE2XX0=
 -->
