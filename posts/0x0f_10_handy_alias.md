@@ -21,11 +21,12 @@
 
 ## wget
 
-`wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。
-`wget`
+`wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。`alias  wget='wget -c '` 命令可以帮在下载中挂断后恢复下载。这里这个 c 就是***continue***的意思。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU5OTIzMzAsLTEwNTYyOTYzODIsLT
-MzNzEzMTk5LC0xODkxMDQwNjY0LDU1OTE3NTk5LC0xNzc1NzU1
-MTI1LC0xNTIxOTkxNDIyLDQxNzIzMTI5MiwxNjM4Njc3MDI4LC
-03ODg2MjM5OTcsMTE4MTI5OTk2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk2NTU0NzE3NiwtMTA1NjI5NjM4MiwtMz
+M3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1OTksLTE3NzU3NTUx
+MjUsLTE1MjE5OTE0MjIsNDE3MjMxMjkyLDE2Mzg2NzcwMjgsLT
+c4ODYyMzk5NywxMTgxMjk5OTY5LDczMDk5ODExNl19
 -->
