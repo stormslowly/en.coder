@@ -1,7 +1,7 @@
 如何成为一个比普通程序员高效10倍的程序员？ 
 ---
 
-最近发的文章都在说提高效率，比如说要“要巧干，不要蛮干”，和介绍一些 bash alias 来提升wei
+最近发的文章都在说提高效率，比如说要“要巧干，不要蛮干”，和介绍一些 bash alias 来提升“微效率”。可能大家会觉得不是很干，今天这篇文章可能会更加的务虚，但是请耐心看完，然后你就会明白为什么 pshu 为什么这么在乎效率的提升哪怕是一点点。
  
 source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/  
 
@@ -71,7 +71,7 @@ Google估算出在程序员引入bug后马上修复它要花费5美元。同样�
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjM5MTM0OSwxNTg1MjQ3MzI2LDEwND
+eyJoaXN0b3J5IjpbLTY4NDgzMDY1MywxNTg1MjQ3MzI2LDEwND
 k0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0
 MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OT
 UxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2
