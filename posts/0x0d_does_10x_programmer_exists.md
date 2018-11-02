@@ -63,12 +63,13 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 看到上面这个评论，你是在看自己呢，还是把目光瞄向了那个制造 bug 的同事呢？
 
-最后再用以为计算机先贤
+最后再用以为计算机先贤# Edsger W. Dijkstra[](https://en.wikipedia.org/w/index.php?title=Edsger_W._Dijkstra&action=edit)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NjQ5NzMwLDE1ODUyNDczMjYsMTA0OT
-QwNDMwMiwxODYyMjU5NzE2LC04NTkzODA1MDAsNjMxNjg4ODQy
-LDE1OTk2OTY3OTksODc4NzE0OTQ5LDE3NDA0NDE5OTAsLTU5NT
-EzNjc1MSwxMTIxMDE0MDE1LC02Nzk1MjkxMzAsLTE1ODE4NTY1
-MzAsMTc0OTY1ODgzMywxMzEwNzA4ODMyLC0xNjg3MzU0ODAsMT
-AzOTgyNzAxNywzOTMxMjYzMTEsLTE2MjQzMjQwMzVdfQ==
+eyJoaXN0b3J5IjpbNDUzNDI2NjU3LDI3NDY0OTczMCwxNTg1Mj
+Q3MzI2LDEwNDk0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAw
+LDYzMTY4ODg0MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwND
+QxOTkwLC01OTUxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMw
+LC0xNTgxODU2NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMT
+Y4NzM1NDgwLDEwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0
+MDM1XX0=
 -->
