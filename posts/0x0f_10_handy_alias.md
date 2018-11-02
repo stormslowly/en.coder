@@ -21,7 +21,7 @@
 
 ## wget
 
-`wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。`alias  wget='wget -c '` 命令可以帮在下载中挂断后恢复下载。这里这个 c 就是***continue***的意思。
+`wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。`alias  wget='wget -c '` 命令可以帮在下载中断后恢复下载。这里这个 c 就是***continue***的意思。
 
 ![curl vs wget ](http://cdn2.51ulong.com/18-11-2/31464466.jpg)
 
@@ -93,11 +93,11 @@ chmod +x speedtest-cli
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYzMDgyNDksLTE1MDYwNzkxMjIsLT
-E2OTcyOTEzMTUsLTExNTY3OTIwMDUsMTAyNzM3Njg4LC04OTEz
-OTM5MzUsMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2OD
-U2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1
-NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1ND
-Y4LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0x
-MDU2Mjk2MzgyXX0=
+eyJoaXN0b3J5IjpbLTI4MjIyMTE0NSwtMTUwNjA3OTEyMiwtMT
+Y5NzI5MTMxNSwtMTE1Njc5MjAwNSwxMDI3Mzc2ODgsLTg5MTM5
+MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4NT
+YsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOTU2
+Njk3MTA0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0Nj
+gsLTQyOTczMTQyMCwxNTM3ODYzMjI4LC0yNjYyNDA5MTYsLTEw
+NTYyOTYzODJdfQ==
 -->
