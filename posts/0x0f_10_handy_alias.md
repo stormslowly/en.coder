@@ -53,17 +53,20 @@ alias  ping='ping -c 5'
 
 ## 马上要一个 web 服务器
 
-来咯! 不过区分下你的默认的 python 的版本。如果是 py3的话，记得用下满那个
+来咯! 不过区分下你的默认的 python 的版本。如果是 py3的话，记得用下面那个。不过pi'shu
 
 ```
 alias  www='python -m SimpleHTTPServer 8000'
 ```
+```
+alias www='python -m http.server 8000'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgxODg1MjEsMTgxODM0MDI3NiwtMT
-U0OTMxNDAxMSwxMzQ4MzE2ODU2LDgwNzgxMzA4MiwxNjMxODI3
-NzUxLDEwNDU1ODUzNzEsMTk1NjY5NzEwNCwtMjAxOTE3OTg1LC
-01OTI3MDI2OTUsMTc5NDk1NDY4LC00Mjk3MzE0MjAsMTUzNzg2
-MzIyOCwtMjY2MjQwOTE2LC0xMDU2Mjk2MzgyLC0zMzcxMzE5OS
-wtMTg5MTA0MDY2NCw1NTkxNzU5OSwtMTc3NTc1NTEyNSwtMTUy
-MTk5MTQyMl19
+eyJoaXN0b3J5IjpbLTUyNTY5OTc3NywxODE4MzQwMjc2LC0xNT
+Q5MzE0MDExLDEzNDgzMTY4NTYsODA3ODEzMDgyLDE2MzE4Mjc3
+NTEsMTA0NTU4NTM3MSwxOTU2Njk3MTA0LC0yMDE5MTc5ODUsLT
+U5MjcwMjY5NSwxNzk0OTU0NjgsLTQyOTczMTQyMCwxNTM3ODYz
+MjI4LC0yNjYyNDA5MTYsLTEwNTYyOTYzODIsLTMzNzEzMTk5LC
+0xODkxMDQwNjY0LDU1OTE3NTk5LC0xNzc1NzU1MTI1LC0xNTIx
+OTkxNDIyXX0=
 -->
