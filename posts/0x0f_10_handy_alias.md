@@ -35,13 +35,13 @@ pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <
 ```
 alias getpass="openssl rand -base64 20"
 ```
-这里 pshu 要做一个简单的勘误。这个***20***是表示随机生成20个字节；`-base64` 是表示对这些字节做 base64编码。所以命令出来的密码长度并不是20。这个大家可以试试
+这里 pshu 要做一个简单的勘误。这个***20***是表示随机生成20个字节；`-base64` 是表示对这些字节做 base64编码。所以命令出来的密码长度并不是20。这个大家可以试试。 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODMxNjg1Niw4MDc4MTMwODIsMTYzMT
-gyNzc1MSwxMDQ1NTg1MzcxLDE5NTY2OTcxMDQsLTIwMTkxNzk4
-NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2OCwtNDI5NzMxNDIwLDE1Mz
-c4NjMyMjgsLTI2NjI0MDkxNiwtMTA1NjI5NjM4MiwtMzM3MTMx
-OTksLTE4OTEwNDA2NjQsNTU5MTc1OTksLTE3NzU3NTUxMjUsLT
-E1MjE5OTE0MjIsNDE3MjMxMjkyLDE2Mzg2NzcwMjgsLTc4ODYy
-Mzk5N119
+eyJoaXN0b3J5IjpbMTY2ODMwOTQwMiwxMzQ4MzE2ODU2LDgwNz
+gxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1NjY5NzEw
+NCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1NDY4LC00Mj
+k3MzE0MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0xMDU2Mjk2
+MzgyLC0zMzcxMzE5OSwtMTg5MTA0MDY2NCw1NTkxNzU5OSwtMT
+c3NTc1NTEyNSwtMTUyMTk5MTQyMiw0MTcyMzEyOTIsMTYzODY3
+NzAyOF19
 -->
