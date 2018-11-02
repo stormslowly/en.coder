@@ -69,15 +69,15 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 如果 debug 是为了把 bug 从软件中移除，那么编程就是往软件里面添加 bug 咯！
 
-如果迪大爷现在还健在的话，肯定会手动狗头下了。
+如果迪大爷现在还健在的话，thug life 下！
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMDkxMzAxLDI3NDY0OTczMCwxNTg1Mj
-Q3MzI2LDEwNDk0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAw
-LDYzMTY4ODg0MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwND
-QxOTkwLC01OTUxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMw
-LC0xNTgxODU2NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMT
-Y4NzM1NDgwLDEwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0
-MDM1XX0=
+eyJoaXN0b3J5IjpbLTE1MjgxNjY3ODEsMjc0NjQ5NzMwLDE1OD
+UyNDczMjYsMTA0OTQwNDMwMiwxODYyMjU5NzE2LC04NTkzODA1
+MDAsNjMxNjg4ODQyLDE1OTk2OTY3OTksODc4NzE0OTQ5LDE3ND
+A0NDE5OTAsLTU5NTEzNjc1MSwxMTIxMDE0MDE1LC02Nzk1Mjkx
+MzAsLTE1ODE4NTY1MzAsMTc0OTY1ODgzMywxMzEwNzA4ODMyLC
+0xNjg3MzU0ODAsMTAzOTgyNzAxNywzOTMxMjYzMTEsLTE2MjQz
+MjQwMzVdfQ==
 -->
