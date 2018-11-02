@@ -35,9 +35,9 @@ pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <
 ```
 alias getpass="openssl rand -base64 20"
 ```
-这里 pshu 要做一个简单的勘误。这个***20
+这里 pshu 要做一个简单的勘误。这个***20***是表示随机生成20个字节；`-base64` 是表示对这些字节做 base64编码。所处出来的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDA1Mjg5NSwxNjMxODI3NzUxLDEwND
+eyJoaXN0b3J5IjpbLTgxNDI3NDU3MiwxNjMxODI3NzUxLDEwND
 U1ODUzNzEsMTk1NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2
 OTUsMTc5NDk1NDY4LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMj
 Y2MjQwOTE2LC0xMDU2Mjk2MzgyLC0zMzcxMzE5OSwtMTg5MTA0
