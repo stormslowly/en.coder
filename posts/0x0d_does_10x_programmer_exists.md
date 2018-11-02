@@ -39,7 +39,6 @@ Google估算出在程序员引入bug后马上修复它要花费5美元。同样�
  贷款 100000，利率100 % 。
 50年做完项目, 每月按揭还款 8,333.33
 
-  
 现在让各位听读者老爷们猜想下，如果要5年做完项目，每一个月按揭多少钱。
 .
 .
@@ -80,7 +79,7 @@ Google估算出在程序员引入bug后马上修复它要花费5美元。同样�
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDU4NDY5MiwxNTg1MjQ3MzI2LDEwND
+eyJoaXN0b3J5IjpbMjEwMDQxMzgxOCwxNTg1MjQ3MzI2LDEwND
 k0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0
 MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OT
 UxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2
