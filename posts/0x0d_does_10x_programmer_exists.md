@@ -59,12 +59,14 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  
 
-翻译：谢谢你让我到那些如此真实又如此不合理的待遇问题。但有时候我还是会疑惑，那些在代码中写 bug 的解决问题和制造问题的人都有薪水.  
+翻译：谢谢你让我到那些如此真实又如此不合理的待遇问题。但有时候我还是会疑惑，为什么那些在代码中写 bug 的员工和最终修复 bug 的人他们都能领到工资呢？
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU3NTg0NDMsMTU4NTI0NzMyNiwxMD
-Q5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4
-NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNT
-k1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1
-NjUzMCwxNzQ5NjU4ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MC
-wxMDM5ODI3MDE3LDM5MzEyNjMxMSwtMTYyNDMyNDAzNV19
+eyJoaXN0b3J5IjpbNjUxNDIwODA1LDE1ODUyNDczMjYsMTA0OT
+QwNDMwMiwxODYyMjU5NzE2LC04NTkzODA1MDAsNjMxNjg4ODQy
+LDE1OTk2OTY3OTksODc4NzE0OTQ5LDE3NDA0NDE5OTAsLTU5NT
+EzNjc1MSwxMTIxMDE0MDE1LC02Nzk1MjkxMzAsLTE1ODE4NTY1
+MzAsMTc0OTY1ODgzMywxMzEwNzA4ODMyLC0xNjg3MzU0ODAsMT
+AzOTgyNzAxNywzOTMxMjYzMTEsLTE2MjQzMjQwMzVdfQ==
 -->
