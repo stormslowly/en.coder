@@ -88,9 +88,9 @@ chmod +x speedtest-cli
 
 `alias  c='clear'`。这个别名，pshu 觉得做不做都无所谓。因为 bash 自带的清屏快捷键 `ctrl+l`
 
-好了，10个 alias 
+好了，10个 alias 就给大家介绍到这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc4NzkzODIsLTE1MDYwNzkxMjIsLT
+eyJoaXN0b3J5IjpbLTE0MjYzNzg5NTgsLTE1MDYwNzkxMjIsLT
 E2OTcyOTEzMTUsLTExNTY3OTIwMDUsMTAyNzM3Njg4LC04OTEz
 OTM5MzUsMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2OD
 U2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1
