@@ -37,8 +37,13 @@ alias getpass="openssl rand -base64 20"
 ```
 这里 pshu 要做一个简单的勘误。这个***20***是表示随机生成20个字节；`-base64` 是表示对这些字节做 base64编码。所以命令出来的密码长度并不是20。这个大家可以试试。如果大家对出现的密码中末尾有`=` 比较纠结的话，可以把20改成被3乘除的数字就可以了。至于为什么，看看 base64 的 wiki 就知道了。
 
+## 文件完整性校验
+
+```
+alias  sha='shasum -a 256 '
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQzNzIxODQsLTE1NDkzMTQwMTEsMT
+eyJoaXN0b3J5IjpbLTE2NjgzNTIxODYsLTE1NDkzMTQwMTEsMT
 M0ODMxNjg1Niw4MDc4MTMwODIsMTYzMTgyNzc1MSwxMDQ1NTg1
 MzcxLDE5NTY2OTcxMDQsLTIwMTkxNzk4NSwtNTkyNzAyNjk1LD
 E3OTQ5NTQ2OCwtNDI5NzMxNDIwLDE1Mzc4NjMyMjgsLTI2NjI0
