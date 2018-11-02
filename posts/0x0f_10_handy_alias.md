@@ -64,20 +64,25 @@ alias www='python -m http.server 8000'
 
 ## 测速
 
-实现需要下载一个 speedtest-cli 的脚本，然后让到你的 PATH 目录下 ；然后再做个别名。
+实现需要下载一个 speedtest-cli 的脚本，然后让到你的 PATH 目录下 ；然后再做个别名。你看 wget 马上就用上了。
 
 ```
 wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
 chmod +x speedtest-cli
 ```
 
-`alias  speed='speedtest-cli --server 2406 --simple'`
+`alias  speed='speedtest-cli --server 2406 --simple'`。 pshu 测试了下，测速的时候会就近选取测速点，出来的数据还是蛮合理的，可用！
+
+
+## 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTM5MzkzNSwxODE4MzQwMjc2LC0xNT
-Q5MzE0MDExLDEzNDgzMTY4NTYsODA3ODEzMDgyLDE2MzE4Mjc3
-NTEsMTA0NTU4NTM3MSwxOTU2Njk3MTA0LC0yMDE5MTc5ODUsLT
-U5MjcwMjY5NSwxNzk0OTU0NjgsLTQyOTczMTQyMCwxNTM3ODYz
-MjI4LC0yNjYyNDA5MTYsLTEwNTYyOTYzODIsLTMzNzEzMTk5LC
-0xODkxMDQwNjY0LDU1OTE3NTk5LC0xNzc1NzU1MTI1LC0xNTIx
-OTkxNDIyXX0=
+eyJoaXN0b3J5IjpbMjA2MDcwNjg1NiwtODkxMzkzOTM1LDE4MT
+gzNDAyNzYsLTE1NDkzMTQwMTEsMTM0ODMxNjg1Niw4MDc4MTMw
+ODIsMTYzMTgyNzc1MSwxMDQ1NTg1MzcxLDE5NTY2OTcxMDQsLT
+IwMTkxNzk4NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2OCwtNDI5NzMx
+NDIwLDE1Mzc4NjMyMjgsLTI2NjI0MDkxNiwtMTA1NjI5NjM4Mi
+wtMzM3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1OTksLTE3NzU3
+NTUxMjVdfQ==
 -->
