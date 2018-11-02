@@ -55,12 +55,13 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 如果文章在这边结束的话，大家可能会觉得太鸡汤了。那我就在混点比较“丧”的内容。
 
-qi'zho
+其中一个是原文中的一条评论。
+
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  
 
-解决问题和制造问题的人都有薪水.  
+翻译：谢谢你让我到那些如此真实又如此不合理的待遇问题。但有时候我还是会疑惑，那些在代码中写 bug 的解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUxMjEwMDUsMTU4NTI0NzMyNiwxMD
+eyJoaXN0b3J5IjpbLTE2MDU3NTg0NDMsMTU4NTI0NzMyNiwxMD
 Q5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4
 NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNT
 k1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1
