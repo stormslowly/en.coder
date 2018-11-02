@@ -61,9 +61,11 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 翻译：谢谢你让我到那些如此真实又如此不合理的待遇问题。但有时候我还是会疑惑，为什么那些在代码中写 bug 的员工和最终修复 bug 的人他们都能领到工资呢？
 
+看到上面这个评论，你是在看自己呢，还是把目光瞄向了那个制造 bug 的同事呢？
 
+最后再用以为计算机先贤
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNDIwODA1LDE1ODUyNDczMjYsMTA0OT
+eyJoaXN0b3J5IjpbMjc0NjQ5NzMwLDE1ODUyNDczMjYsMTA0OT
 QwNDMwMiwxODYyMjU5NzE2LC04NTkzODA1MDAsNjMxNjg4ODQy
 LDE1OTk2OTY3OTksODc4NzE0OTQ5LDE3NDA0NDE5OTAsLTU5NT
 EzNjc1MSwxMTIxMDE0MDE1LC02Nzk1MjkxMzAsLTE1ODE4NTY1
