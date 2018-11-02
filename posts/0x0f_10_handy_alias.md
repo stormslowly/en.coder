@@ -64,7 +64,7 @@ alias www='python -m http.server 8000'
 
 ## 测速
 
-实现需要下载一个 speedtest-cli 的脚本，然后让到你的 PATH 目录下 ；然后再做个别名。你看 wget 马上就用上了。
+实现需要下载一个 speedtest-cli 的脚本到你的 PATH 目录下 ；然后再做个别名。你看 wget 马上就用上了。
 
 ```
 wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
@@ -88,16 +88,13 @@ chmod +x speedtest-cli
 
 `alias  c='clear'`。这个别名，pshu 觉得做不做都无所谓。因为 bash 自带的清屏快捷键 `ctrl+l`
 
-
-
-
-
+好了，10个 alias 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjIyMTE0NSwtMTUwNjA3OTEyMiwtMT
-Y5NzI5MTMxNSwtMTE1Njc5MjAwNSwxMDI3Mzc2ODgsLTg5MTM5
-MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4NT
-YsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOTU2
-Njk3MTA0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0Nj
-gsLTQyOTczMTQyMCwxNTM3ODYzMjI4LC0yNjYyNDA5MTYsLTEw
-NTYyOTYzODJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTc4NzkzODIsLTE1MDYwNzkxMjIsLT
+E2OTcyOTEzMTUsLTExNTY3OTIwMDUsMTAyNzM3Njg4LC04OTEz
+OTM5MzUsMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2OD
+U2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1
+NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1ND
+Y4LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0x
+MDU2Mjk2MzgyXX0=
 -->
