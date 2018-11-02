@@ -50,7 +50,7 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 8,402.31
 
-只需要多付出1%都不到，就能提速10倍完成任务。之所以如此的反直觉，就是因为大家忽略了复利的威力。
+只需要多付出1%都不到，就能提速10倍完成任务。之所以如此的反直觉，就是因为大家忽略了复利的威力。当然这个利率是不是100%值得讨论，但是这个例子告诉我们在日后再来修复的成本上升很快的软件行业，
 
 
 
@@ -58,7 +58,7 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDg3MTk0MSwxNTg1MjQ3MzI2LDEwND
+eyJoaXN0b3J5IjpbMTY5MDk5NTg5MywxNTg1MjQ3MzI2LDEwND
 k0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0
 MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OT
 UxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2
