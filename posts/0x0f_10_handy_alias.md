@@ -31,15 +31,17 @@ pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <
 
 > Need to generate a random, 20-character password for a new online account? No problem.
 
+需要给新用户生成一个20位的密码？没问题。
 ```
-
+alias getpass="openssl rand -base64 20"
 ```
+这里 pshu 要做一个简单的勘误。这个***20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTgyNzc1MSwxMDQ1NTg1MzcxLDE5NT
-Y2OTcxMDQsLTIwMTkxNzk4NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2
-OCwtNDI5NzMxNDIwLDE1Mzc4NjMyMjgsLTI2NjI0MDkxNiwtMT
-A1NjI5NjM4MiwtMzM3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1
-OTksLTE3NzU3NTUxMjUsLTE1MjE5OTE0MjIsNDE3MjMxMjkyLD
-E2Mzg2NzcwMjgsLTc4ODYyMzk5NywxMTgxMjk5OTY5LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMTY2NDA1Mjg5NSwxNjMxODI3NzUxLDEwND
+U1ODUzNzEsMTk1NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2
+OTUsMTc5NDk1NDY4LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMj
+Y2MjQwOTE2LC0xMDU2Mjk2MzgyLC0zMzcxMzE5OSwtMTg5MTA0
+MDY2NCw1NTkxNzU5OSwtMTc3NTc1NTEyNSwtMTUyMTk5MTQyMi
+w0MTcyMzEyOTIsMTYzODY3NzAyOCwtNzg4NjIzOTk3LDExODEy
+OTk5NjldfQ==
 -->
