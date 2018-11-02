@@ -74,15 +74,18 @@ chmod +x speedtest-cli
 `alias  speed='speedtest-cli --server 2406 --simple'`。 pshu 测试了下，测速的时候会就近选取测速点，出来的数据还是蛮合理的，可用！
 
 
-## 
+## 外网 IP
+
+作为程序员通过 web 浏览器产看外网 ip 是可耻的。赶紧做上这个别名吧。
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDcwNjg1NiwtODkxMzkzOTM1LDE4MT
-gzNDAyNzYsLTE1NDkzMTQwMTEsMTM0ODMxNjg1Niw4MDc4MTMw
-ODIsMTYzMTgyNzc1MSwxMDQ1NTg1MzcxLDE5NTY2OTcxMDQsLT
-IwMTkxNzk4NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2OCwtNDI5NzMx
-NDIwLDE1Mzc4NjMyMjgsLTI2NjI0MDkxNiwtMTA1NjI5NjM4Mi
-wtMzM3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1OTksLTE3NzU3
-NTUxMjVdfQ==
+eyJoaXN0b3J5IjpbMTAyNzM3Njg4LC04OTEzOTM5MzUsMTgxOD
+M0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2ODU2LDgwNzgxMzA4
+MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1NjY5NzEwNCwtMj
+AxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1NDY4LC00Mjk3MzE0
+MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0xMDU2Mjk2MzgyLC
+0zMzcxMzE5OSwtMTg5MTA0MDY2NCw1NTkxNzU5OSwtMTc3NTc1
+NTEyNV19
 -->
