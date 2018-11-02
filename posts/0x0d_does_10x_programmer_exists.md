@@ -46,11 +46,7 @@ Google估算出在程序员引入bug后马上修复它要花费5美元。同样�
 
   
 
-  
-
-现在让各位听读者和听众老爷们猜想下，如果要5年做完项目，每一个月按揭多少钱。
-
-  
+现在让各位听读者老爷们猜想下，如果要5年做完项目，每一个月按揭多少钱。
 
 8,402.31
 
@@ -73,10 +69,10 @@ Google估算出在程序员引入bug后马上修复它要花费5美元。同样�
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTI0NzMyNiwxMDQ5NDA0MzAyLDE4Nj
-IyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4NDIsMTU5OTY5Njc5
-OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNTk1MTM2NzUxLDExMj
-EwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1NjUzMCwxNzQ5NjU4
-ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MCwxMDM5ODI3MDE3LD
-M5MzEyNjMxMSwtMTYyNDMyNDAzNV19
+eyJoaXN0b3J5IjpbLTIwOTMyMzE1NzMsMTU4NTI0NzMyNiwxMD
+Q5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4
+NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNT
+k1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1
+NjUzMCwxNzQ5NjU4ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MC
+wxMDM5ODI3MDE3LDM5MzEyNjMxMSwtMTYyNDMyNDAzNV19
 -->
