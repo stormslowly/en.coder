@@ -29,13 +29,13 @@ pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <
 
 ## 生成密码
 
->  Need to generate a random, 20-character password for a new online account? No problem.
+> Need to generate a random, 20-character password for a new online account? No problem.
 
 ```
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDcxNDQ4NywxMDQ1NTg1MzcxLDE5NT
+eyJoaXN0b3J5IjpbMTYzMTgyNzc1MSwxMDQ1NTg1MzcxLDE5NT
 Y2OTcxMDQsLTIwMTkxNzk4NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2
 OCwtNDI5NzMxNDIwLDE1Mzc4NjMyMjgsLTI2NjI0MDkxNiwtMT
 A1NjI5NjM4MiwtMzM3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1
