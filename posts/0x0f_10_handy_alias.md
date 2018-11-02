@@ -1,7 +1,7 @@
 10个好用的 shell 别名
 ----
 
-上一篇推文讲了，程序员要巧干不要蛮干，注重效率提高。今天再分享一篇提升“微效率”的文章。原文标题：《10 handy Bash aliases for Linux》，原文地址 https://opensource.com/article/18/9/handy-bash-aliases 。p叔觉得有几个别名还是挺有用的，除了把这些别名分享给大家。文章用的单词和句子都比较简单，大家可以尝试直接看看原文。
+上一篇推文讲了，程序员要巧干不要蛮干，注重效率提高。今天再分享一篇提升“微效率”的文章。原文标题：《10 handy Bash aliases for Linux》，原文地址 https://opensource.com/article/18/9/handy-bash-aliases 。p叔觉得有几个别名还是挺有用的。文章用的单词和句子都比较简单，大家可以尝试直接看看原文。文章开头有两个单词 *condense* 和 *cryptic* 用的也比较 native speak 的gan'j
 
 >How many times have you repeatedly typed out a long command on the command line and wished there was a way to save it for later? This is where Bash aliases come in handy. They allow you to ***condense*** long, ***cryptic*** commands down to something easy to remember and use. Need some examples to get you started? No problem!
 
@@ -93,11 +93,11 @@ chmod +x speedtest-cli
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYwNzkxMjIsLTE2OTcyOTEzMTUsLT
-ExNTY3OTIwMDUsMTAyNzM3Njg4LC04OTEzOTM5MzUsMTgxODM0
-MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2ODU2LDgwNzgxMzA4Mi
-wxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1NjY5NzEwNCwtMjAx
-OTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1NDY4LC00Mjk3MzE0Mj
-AsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0xMDU2Mjk2MzgyLC0z
-MzcxMzE5OV19
+eyJoaXN0b3J5IjpbLTg0NjQ4MTY3MCwtMTUwNjA3OTEyMiwtMT
+Y5NzI5MTMxNSwtMTE1Njc5MjAwNSwxMDI3Mzc2ODgsLTg5MTM5
+MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4NT
+YsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOTU2
+Njk3MTA0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0Nj
+gsLTQyOTczMTQyMCwxNTM3ODYzMjI4LC0yNjYyNDA5MTYsLTEw
+NTYyOTYzODJdfQ==
 -->
