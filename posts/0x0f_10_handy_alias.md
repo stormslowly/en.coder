@@ -1,4 +1,4 @@
-10个好用的 shell 别名
+10个好用的 bash 别名
 ----
 
 上一篇推文讲了，程序员要巧干不要蛮干，注重效率提高。今天再分享一篇提升“微效率”的文章。原文标题：《10 handy Bash aliases for Linux》，原文地址 https://opensource.com/article/18/9/handy-bash-aliases 。p叔觉得有几个别名还是挺有用的。文章用的单词和句子都比较简单，大家可以尝试直接看看原文。文章开头有两个单词 *condense* 和 *cryptic* 用得很地道就翻译个开头。
@@ -92,11 +92,11 @@ chmod +x speedtest-cli
 
 最后如果你有什么 linux 使用上的神兵利器也可以留言分享给 pshu。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDcwNDc3LC0xNTg3NzU0NTY3LC0xMD
-EzNTUwMzQyLDQ3Mjk2MzM1NCwtMTUwNjA3OTEyMiwtMTY5NzI5
-MTMxNSwtMTE1Njc5MjAwNSwxMDI3Mzc2ODgsLTg5MTM5MzkzNS
-wxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4NTYsODA3
-ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOTU2Njk3MT
-A0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0NjgsLTQy
-OTczMTQyMF19
+eyJoaXN0b3J5IjpbNDg2MTY3MDM5LC04MjA3MDQ3NywtMTU4Nz
+c1NDU2NywtMTAxMzU1MDM0Miw0NzI5NjMzNTQsLTE1MDYwNzkx
+MjIsLTE2OTcyOTEzMTUsLTExNTY3OTIwMDUsMTAyNzM3Njg4LC
+04OTEzOTM5MzUsMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4
+MzE2ODU2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNz
+EsMTk1NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5
+NDk1NDY4XX0=
 -->
