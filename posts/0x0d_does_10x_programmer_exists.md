@@ -67,9 +67,13 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 ![dijkstra](http://cdn2.51ulong.com/18-11-3/62865378.jpg)
 
-如果 debug 是为了把 bug 从软件中移除，那么bian
+如果 debug 是为了把 bug 从软件中移除，那么编程就是往软件里面添加 bug 咯！
+
+如果
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzc0NDY2OCwyNzQ2NDk3MzAsMTU4NT
+eyJoaXN0b3J5IjpbMTQ0ODUxNjg2MywyNzQ2NDk3MzAsMTU4NT
 I0NzMyNiwxMDQ5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUw
 MCw2MzE2ODg4NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MD
 Q0MTk5MCwtNTk1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEz
