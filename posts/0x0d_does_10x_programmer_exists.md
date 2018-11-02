@@ -2,7 +2,7 @@
 ---
 cover https://i.ytimg.com/vi/zYfBgYH8ltA/maxresdefault.jpg
 
-最近发的文章都在说提高效率，比如说要“要巧干，不要蛮干”，和介绍一些 bash alias 来提升“微效率”。可能大家会觉得不是很干，今天这篇文章可能会更加的务虚，但是请耐心看完，然后你就会明白为什么 pshu 为什么这么在乎效率的提升哪怕是一点点。
+最近发的文章都在说提高效率，比如说要“要巧干，不要蛮干”和介绍一些 bash alias 来提升“微效率”。可能大家会觉得内容不是很干，今天这篇文章可能会更加的务虚，但是请耐心看完，然后你就会明白为什么 pshu 这么在乎效率的提升，哪怕只是一点点。
  
 source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/  
 
@@ -72,10 +72,10 @@ Google估算出在程序员引入bug后马上修复它要花费5美元。同样�
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU0MDg3NTYsMTU4NTI0NzMyNiwxMD
-Q5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4
-NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNT
-k1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1
-NjUzMCwxNzQ5NjU4ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MC
-wxMDM5ODI3MDE3LDM5MzEyNjMxMSwtMTYyNDMyNDAzNV19
+eyJoaXN0b3J5IjpbLTUzOTM0NjA0OCwxNTg1MjQ3MzI2LDEwND
+k0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0
+MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OT
+UxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2
+NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMTY4NzM1NDgwLD
+EwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0MDM1XX0=
 -->
