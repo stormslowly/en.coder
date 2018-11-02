@@ -29,16 +29,17 @@ pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <
 
 ## 生成密码
 
+>  Need to generate a random, 20-character password for a new online account? No problem.
 
 ```
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNjg0NTI1LDEwNDU1ODUzNzEsMTk1Nj
-Y5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1NDY4
-LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0xMD
-U2Mjk2MzgyLC0zMzcxMzE5OSwtMTg5MTA0MDY2NCw1NTkxNzU5
-OSwtMTc3NTc1NTEyNSwtMTUyMTk5MTQyMiw0MTcyMzEyOTIsMT
-YzODY3NzAyOCwtNzg4NjIzOTk3LDExODEyOTk5NjksNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ4MDcxNDQ4NywxMDQ1NTg1MzcxLDE5NT
+Y2OTcxMDQsLTIwMTkxNzk4NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2
+OCwtNDI5NzMxNDIwLDE1Mzc4NjMyMjgsLTI2NjI0MDkxNiwtMT
+A1NjI5NjM4MiwtMzM3MTMxOTksLTE4OTEwNDA2NjQsNTU5MTc1
+OTksLTE3NzU3NTUxMjUsLTE1MjE5OTE0MjIsNDE3MjMxMjkyLD
+E2Mzg2NzcwMjgsLTc4ODYyMzk5NywxMTgxMjk5OTY5LDczMDk5
+ODExNl19
 -->
