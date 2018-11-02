@@ -23,6 +23,7 @@
 
 `wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。`alias  wget='wget -c '` 命令可以帮在下载中挂断后恢复下载。这里这个 c 就是***continue***的意思。
 
+![](http://cdn2.51ulong.com/18-11-2/31464466.jpg)
 
 pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <offset>` , 是要通过 offset 来指定继续下载的位置。如果要自动获取 offset 的话只要使用 `-C -` 来指定。 这点上话我觉得还是 curl 做的好一些，把选择的权利留给用户，这样子命令的使用会更加的灵活。
 
@@ -30,10 +31,10 @@ pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzczMzE4MiwxOTU2Njk3MTA0LC0yMD
-E5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0NjgsLTQyOTczMTQy
-MCwxNTM3ODYzMjI4LC0yNjYyNDA5MTYsLTEwNTYyOTYzODIsLT
-MzNzEzMTk5LC0xODkxMDQwNjY0LDU1OTE3NTk5LC0xNzc1NzU1
-MTI1LC0xNTIxOTkxNDIyLDQxNzIzMTI5MiwxNjM4Njc3MDI4LC
-03ODg2MjM5OTcsMTE4MTI5OTk2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExOTUyMzY1MjcsMTk1NjY5NzEwNCwtMj
+AxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1NDY4LC00Mjk3MzE0
+MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0xMDU2Mjk2MzgyLC
+0zMzcxMzE5OSwtMTg5MTA0MDY2NCw1NTkxNzU5OSwtMTc3NTc1
+NTEyNSwtMTUyMTk5MTQyMiw0MTcyMzEyOTIsMTYzODY3NzAyOC
+wtNzg4NjIzOTk3LDExODEyOTk5NjksNzMwOTk4MTE2XX0=
 -->
