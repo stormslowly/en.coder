@@ -63,13 +63,17 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 看到上面这个评论，你是在看自己呢，还是把目光瞄向了那个制造 bug 的同事呢？
 
-最后再用以为计算机先贤# Edsger W. Dijkstra[](https://en.wikipedia.org/w/index.php?title=Edsger_W._Dijkstra&action=edit)
+最后用计算机先贤 Edsger Dijkstra的一句名言结束本文。
+
+![dijkstra](http://cdn2.51ulong.com/18-11-3/62865378.jpg)
+
+如果 debug 是为了把 bug 从软件中移除，那么bian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNDI2NjU3LDI3NDY0OTczMCwxNTg1Mj
-Q3MzI2LDEwNDk0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAw
-LDYzMTY4ODg0MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwND
-QxOTkwLC01OTUxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMw
-LC0xNTgxODU2NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMT
-Y4NzM1NDgwLDEwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0
-MDM1XX0=
+eyJoaXN0b3J5IjpbMTYyMzc0NDY2OCwyNzQ2NDk3MzAsMTU4NT
+I0NzMyNiwxMDQ5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUw
+MCw2MzE2ODg4NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MD
+Q0MTk5MCwtNTk1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEz
+MCwtMTU4MTg1NjUzMCwxNzQ5NjU4ODMzLDEzMTA3MDg4MzIsLT
+E2ODczNTQ4MCwxMDM5ODI3MDE3LDM5MzEyNjMxMSwtMTYyNDMy
+NDAzNV19
 -->
