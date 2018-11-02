@@ -53,8 +53,13 @@ alias  ping='ping -c 5'
 
 ## 马上要一个 web 服务器
 
+来咯!
+
+```
+alias  www='python -m SimpleHTTPServer 8000'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDYzNjQ5MiwtMTU0OTMxNDAxMSwxMz
+eyJoaXN0b3J5IjpbMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMz
 Q4MzE2ODU2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUz
 NzEsMTk1NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMT
 c5NDk1NDY4LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMjY2MjQw
