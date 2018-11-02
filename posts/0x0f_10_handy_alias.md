@@ -82,13 +82,13 @@ chmod +x speedtest-cli
 ## 内网 IP
 
 `alias  ipi='ipconfig getifaddr en0'` 
-不过大家记得把 en0 换成自己
+不过大家记得把 en0 换成自己实际使用的网卡即可。比如我用的是 `en1`。因为
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjcyMTI5MywtMTE1Njc5MjAwNSwxMD
+eyJoaXN0b3J5IjpbMTE0NjA1NDI0NSwtMTE1Njc5MjAwNSwxMD
 I3Mzc2ODgsLTg5MTM5MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0
 MDExLDEzNDgzMTY4NTYsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMT
 A0NTU4NTM3MSwxOTU2Njk3MTA0LC0yMDE5MTc5ODUsLTU5Mjcw
