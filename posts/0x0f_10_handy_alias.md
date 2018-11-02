@@ -77,12 +77,12 @@ chmod +x speedtest-cli
 ## 外网 IP
 
 作为程序员通过 web 浏览器产看外网 ip 是可耻的。赶紧做上这个别名吧。
-
+`alias  ipe='curl ipinfo.io/ip'`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDI1NjA3MCwxMDI3Mzc2ODgsLTg5MT
+eyJoaXN0b3J5IjpbMTAyODk0MTE0NiwxMDI3Mzc2ODgsLTg5MT
 M5MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4
 NTYsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOT
 U2Njk3MTA0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0
