@@ -1,17 +1,17 @@
 10个好用的 shell 别名
 ----
 
-上一篇推文讲了，程序员要巧干不要蛮干，注重效率提高。今天再分享一篇提升“微效率”的文章。原文标题：《10 handy Bash aliases for Linux》，原文地址 https://opensource.com/article/18/9/handy-bash-aliases 。p叔觉得有几个别名还是挺有用的。文章用的单词和句子都比较简单，大家可以尝试直接看看原文。文章开头有两个单词 *condense* 和 *cryptic* 用的也比较 native speak 的gan'j
+上一篇推文讲了，程序员要巧干不要蛮干，注重效率提高。今天再分享一篇提升“微效率”的文章。原文标题：《10 handy Bash aliases for Linux》，原文地址 https://opensource.com/article/18/9/handy-bash-aliases 。p叔觉得有几个别名还是挺有用的。文章用的单词和句子都比较简单，大家可以尝试直接看看原文。文章开头有两个单词 *condense* 和 *cryptic* 用得很地道就翻译个开头。
 
 >How many times have you repeatedly typed out a long command on the command line and wished there was a way to save it for later? This is where Bash aliases come in handy. They allow you to ***condense*** long, ***cryptic*** commands down to something easy to remember and use. Need some examples to get you started? No problem!
 
-有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的，让冗长的命令变得简短 *(原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下 )*，晦涩难用 (*cryptic原意是神秘的意思；程序员常见的变形是 crypto，加密 cryptograph 的简写，有些命令确实难用的就像加密了一样 )*的变得简单易用。直接给你们上例子。
+有些很长的命令敲得多了，是不是很想有个地方保存在这个命令，下次用就能节省很多时间了。Bash 的别名就是用来做这个的，让冗长的命令变得简短  *(原文用了 condense，凝结这个单词用来表示命令缩短了，这里 pshu 意译了下 )*，晦涩难用 (*cryptic原意是神秘的意思；程序员常见的变形是 crypto，加密 cryptograph 的简写；有些命令确实难用的就像加密了一样 )*的变得简单易用。直接给你们上例子。
 
  原文中还顺便提了下，如果你要修改 bash 别名的话是要编辑  `bash_profile`  这个文件。这些基础的东西 pshu 就带过了。如果不知道的可以去看下原文。
 
 ## tar 
-来的第一个例子就是要解决 cryptic command。`tar` 命令。
-给出的别名 `alias  untar='tar -zxvf '` 这几个命令行选项是什么意思先不说，我们先看一个 xkcd 的漫画(https://xkcd.com/1168/)就知道 tar 是有多少的 cryptic。它是一个不 google 你用不好的命令。
+来的第一个例子就是要解决 cryptic command `tar` 命令。
+给出的别名 `alias  untar='tar -zxvf '` 这几个命令行选项是什么意思先不说，我们先看一个 xkcd 的漫画(https://xkcd.com/1168/) 就知道 tar 是有多 cryptic。它是一个不 google 你用不好的命令。
 
 ![xkcd  tar](http://cdn2.51ulong.com/18-11-1/42769127.jpg)
 
@@ -93,11 +93,11 @@ chmod +x speedtest-cli
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjQ4MTY3MCwtMTUwNjA3OTEyMiwtMT
-Y5NzI5MTMxNSwtMTE1Njc5MjAwNSwxMDI3Mzc2ODgsLTg5MTM5
-MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4NT
-YsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOTU2
-Njk3MTA0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0Nj
-gsLTQyOTczMTQyMCwxNTM3ODYzMjI4LC0yNjYyNDA5MTYsLTEw
-NTYyOTYzODJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjYzMDgyNDksLTE1MDYwNzkxMjIsLT
+E2OTcyOTEzMTUsLTExNTY3OTIwMDUsMTAyNzM3Njg4LC04OTEz
+OTM5MzUsMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2OD
+U2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMTk1
+NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1ND
+Y4LC00Mjk3MzE0MjAsMTUzNzg2MzIyOCwtMjY2MjQwOTE2LC0x
+MDU2Mjk2MzgyXX0=
 -->
