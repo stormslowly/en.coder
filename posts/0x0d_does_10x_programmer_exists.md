@@ -28,9 +28,8 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 那再软件开发中的数据呢。刚才说了天坑就是需要支付的利息。5%的利息其实在软件行业中算太低了。根据 XP 软件修复的车本会按照几天或者几周的速度10倍的增长。那再我们的软件开发的模型中，把利率变成 100%会怎么样呢。
 
- 贷款 100000，利率100 % 。
+贷款 100000，利率100 % 。
 50年做完项目, 每月按揭还款 8,333.33
-
 现在让各位听读者老爷们猜想下，如果要5年做完项目，每一个月按揭多少钱。
 .
 .
@@ -60,10 +59,10 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 
 > thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTM1MTY2OSwxNTg1MjQ3MzI2LDEwND
-k0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0
-MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OT
-UxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2
-NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMTY4NzM1NDgwLD
-EwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0MDM1XX0=
+eyJoaXN0b3J5IjpbLTE4Mzg5NTgxNjMsMTU4NTI0NzMyNiwxMD
+Q5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4
+NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNT
+k1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1
+NjUzMCwxNzQ5NjU4ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MC
+wxMDM5ODI3MDE3LDM5MzEyNjMxMSwtMTYyNDMyNDAzNV19
 -->
