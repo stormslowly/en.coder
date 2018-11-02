@@ -76,16 +76,18 @@ chmod +x speedtest-cli
 
 ## 外网 IP
 
-作为程序员通过 web 浏览器产看外网 ip 是可耻的。赶紧做上这个别名吧。
+作为程序员通过 web 浏览器产看外网 IP 是可耻的。赶紧做上这个别名吧。
 `alias  ipe='curl ipinfo.io/ip'`。这次用的 curl 了。不过 ipinfo.io 的 ip 服务器非常的不稳定，经常因为中国特色网络而访问超时。如果大家有什么替代方案的话，欢迎留言告诉 pshu了。
 
 ## 内网 IP
+
+`alias  ipi='ipconfig getifaddr en0'`
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDMzMzU1MCwtMTE1Njc5MjAwNSwxMD
+eyJoaXN0b3J5IjpbLTgwNTQ4MTM5MSwtMTE1Njc5MjAwNSwxMD
 I3Mzc2ODgsLTg5MTM5MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0
 MDExLDEzNDgzMTY4NTYsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMT
 A0NTU4NTM3MSwxOTU2Njk3MTA0LC0yMDE5MTc5ODUsLTU5Mjcw
