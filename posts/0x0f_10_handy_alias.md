@@ -88,13 +88,14 @@ chmod +x speedtest-cli
 
 `alias  c='clear'`。这个别名，pshu 觉得做不做都无所谓。因为 bash 自带的清屏快捷键 `ctrl+l`
 
-好了，10个 alias 就给大家介绍到这里。希望对家有用。
+好了，10个 alias 就给大家介绍到这里。希望对家有用。对了原文作者是一个老程序了，还有一些关于 linux 使用的文章，看看老前辈怎么用 linux，还是有点收获的。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjQ0MDEzOSwtMTUwNjA3OTEyMiwtMT
-Y5NzI5MTMxNSwtMTE1Njc5MjAwNSwxMDI3Mzc2ODgsLTg5MTM5
-MzkzNSwxODE4MzQwMjc2LC0xNTQ5MzE0MDExLDEzNDgzMTY4NT
-YsODA3ODEzMDgyLDE2MzE4Mjc3NTEsMTA0NTU4NTM3MSwxOTU2
-Njk3MTA0LC0yMDE5MTc5ODUsLTU5MjcwMjY5NSwxNzk0OTU0Nj
-gsLTQyOTczMTQyMCwxNTM3ODYzMjI4LC0yNjYyNDA5MTYsLTEw
-NTYyOTYzODJdfQ==
+eyJoaXN0b3J5IjpbNDcyOTYzMzU0LC0xNTA2MDc5MTIyLC0xNj
+k3MjkxMzE1LC0xMTU2NzkyMDA1LDEwMjczNzY4OCwtODkxMzkz
+OTM1LDE4MTgzNDAyNzYsLTE1NDkzMTQwMTEsMTM0ODMxNjg1Ni
+w4MDc4MTMwODIsMTYzMTgyNzc1MSwxMDQ1NTg1MzcxLDE5NTY2
+OTcxMDQsLTIwMTkxNzk4NSwtNTkyNzAyNjk1LDE3OTQ5NTQ2OC
+wtNDI5NzMxNDIwLDE1Mzc4NjMyMjgsLTI2NjI0MDkxNiwtMTA1
+NjI5NjM4Ml19
 -->
