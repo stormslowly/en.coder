@@ -53,15 +53,17 @@ source: https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-i
 只需要多付出1%都不到，就能提速10倍完成任务。之所以如此的反直觉，就是因为大家忽略了复利的威力。当然这个利率是不是100%值得讨论，但是这个例子告诉我们在日后再来修复的成本上升很快的软件行业，做得稍微好一点，做得稍微好一点，长期来看效果还是惊人的。所以作为争斗在一点的程序员，除了在项目中去实践持续集成（Continuous integration）,持续交付（Continuous delivery）外，还要记得对自己持续提高，Continuous Improvement。在时间的积累下，你就是 10倍效率的程序员了。
 
 
+如果文章在这边结束的话，大家可能会觉得太鸡汤了。那我就在混点比较“丧”的内容。
 
+qi'zho
+> thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  
 
-
-> thanks for reminding us of an irrational, but all too real condition. Sometimes at work I ask if anyone can explain to me why my company pays a contractor to make mistakes and then pays me to fix them.  解决问题和制造问题的人都有薪水.  
+解决问题和制造问题的人都有薪水.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzAzMjIyMywxNTg1MjQ3MzI2LDEwND
-k0MDQzMDIsMTg2MjI1OTcxNiwtODU5MzgwNTAwLDYzMTY4ODg0
-MiwxNTk5Njk2Nzk5LDg3ODcxNDk0OSwxNzQwNDQxOTkwLC01OT
-UxMzY3NTEsMTEyMTAxNDAxNSwtNjc5NTI5MTMwLC0xNTgxODU2
-NTMwLDE3NDk2NTg4MzMsMTMxMDcwODgzMiwtMTY4NzM1NDgwLD
-EwMzk4MjcwMTcsMzkzMTI2MzExLC0xNjI0MzI0MDM1XX0=
+eyJoaXN0b3J5IjpbLTIwNTUxMjEwMDUsMTU4NTI0NzMyNiwxMD
+Q5NDA0MzAyLDE4NjIyNTk3MTYsLTg1OTM4MDUwMCw2MzE2ODg4
+NDIsMTU5OTY5Njc5OSw4Nzg3MTQ5NDksMTc0MDQ0MTk5MCwtNT
+k1MTM2NzUxLDExMjEwMTQwMTUsLTY3OTUyOTEzMCwtMTU4MTg1
+NjUzMCwxNzQ5NjU4ODMzLDEzMTA3MDg4MzIsLTE2ODczNTQ4MC
+wxMDM5ODI3MDE3LDM5MzEyNjMxMSwtMTYyNDMyNDAzNV19
 -->
