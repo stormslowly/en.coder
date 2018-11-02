@@ -77,12 +77,14 @@ chmod +x speedtest-cli
 ## 外网 IP
 
 作为程序员通过 web 浏览器产看外网 ip 是可耻的。赶紧做上这个别名吧。
-`alias  ipe='curl ipinfo.io/ip'`。这次用的 curl 了。不过 ipinfo.io 的 ip 服务器非常的不稳定，经常因为有中国特色
+`alias  ipe='curl ipinfo.io/ip'`。这次用的 curl 了。不过 ipinfo.io 的 ip 服务器非常的不稳定，经常因为中国特色网络而访问超时。如果大家有什么替代方案的话，欢迎留言告诉 pshu了。
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAzMDI0MjcsMTAyNzM3Njg4LC04OT
+eyJoaXN0b3J5IjpbLTExNTY3OTIwMDUsMTAyNzM3Njg4LC04OT
 EzOTM5MzUsMTgxODM0MDI3NiwtMTU0OTMxNDAxMSwxMzQ4MzE2
 ODU2LDgwNzgxMzA4MiwxNjMxODI3NzUxLDEwNDU1ODUzNzEsMT
 k1NjY5NzEwNCwtMjAxOTE3OTg1LC01OTI3MDI2OTUsMTc5NDk1
