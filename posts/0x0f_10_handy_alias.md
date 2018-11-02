@@ -23,14 +23,13 @@
 
 `wget` pshu用的比较少（其实是没怎么用），为了看下 wget 的手册还安装了下。`alias  wget='wget -c '` 命令可以帮在下载中挂断后恢复下载。这里这个 c 就是***continue***的意思。
 
-pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <offset>` , 是要通过 offset 来指定继续下载的位置。如果要自动获取 offset 的话是要使用
-
+pshu常用的下载命令是`curl`, curl 对应的选项是 `-C, --continue-at <offset>` , 是要通过 offset 来指定继续下载的位置。如果要自动获取 offset 的话只要使用 `-C -` 来指定。 这点上话我觉得还是 curl 做的好一些，把选择的权利留给用户，这样子命令的使用会更加的灵活。
 
 ## 生成密码
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzU1NzcxNCwtMjAxOTE3OTg1LC01OT
+eyJoaXN0b3J5IjpbMTk1NjY5NzEwNCwtMjAxOTE3OTg1LC01OT
 I3MDI2OTUsMTc5NDk1NDY4LC00Mjk3MzE0MjAsMTUzNzg2MzIy
 OCwtMjY2MjQwOTE2LC0xMDU2Mjk2MzgyLC0zMzcxMzE5OSwtMT
 g5MTA0MDY2NCw1NTkxNzU5OSwtMTc3NTc1NTEyNSwtMTUyMTk5
