@@ -25,10 +25,14 @@
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
-最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板![](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
+最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板，正是我想要的。爬 google 这件事情倒是不难，用的puppeteer
+
+
+
+![open data](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjI0MDUxNiwtOTkyNDY3Mzc5LC0xMj
-E1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2
-MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQwMjcsNz
-Y0NDkxOTU4XX0=
+eyJoaXN0b3J5IjpbMzY0MDIyOTQ1LC05OTI0NjczNzksLTEyMT
+UyNDg3ODksODg0NjcxODM3LDE1OTU1ODI3ODYsMTM2MDMzNjYx
+MiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LDgyNzk5NDAyNyw3Nj
+Q0OTE5NThdfQ==
 -->
