@@ -1,11 +1,11 @@
 我自制了一套程序员日历送给你
 ---
 
-2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。pshu 看得自然技痒，也做了本类似。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的：
+2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。pshu 看得自然技痒，也做了本2019年的程序员日历。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的：
 
 
 
-先和大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
+那就大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
 
 * React/GatsbyJS
 * Puppeteer
@@ -27,8 +27,8 @@
 
 最后把日期数据和名人名言信息合并成 JSON，制作日历数据就有了。接着使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。再利用 puppeteer 的把2019年的页面都打印成 pdf，最后用 macOs 自带的 pdf 合并工脚本合成日历文件，就大功告成了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM3NzYxMTYsLTEyMzAzMDQzOTcsLT
-k5MjQ2NzM3OSwtMTIxNTI0ODc4OSw4ODQ2NzE4MzcsMTU5NTU4
-Mjc4NiwxMzYwMzM2NjEyLC0yNjYyNDY4OTAsLTE1NjQ3NjM4Mz
-YsODI3OTk0MDI3LDc2NDQ5MTk1OF19
+eyJoaXN0b3J5IjpbNTEwNzYyMzIyLC0xMjMwMzA0Mzk3LC05OT
+I0NjczNzksLTEyMTUyNDg3ODksODg0NjcxODM3LDE1OTU1ODI3
+ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LD
+gyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
 -->
