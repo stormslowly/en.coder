@@ -5,7 +5,13 @@
 
 
 
-先和大家分享下制作此日历用的一些基础，如果你只想下载日历，直接拉到底即可。
+先和大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
+
+* React/Next.js
+* Puppeteer
+* cUrl
+* 
+
 
 日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
@@ -17,9 +23,9 @@
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
-最后就是名人简介了，google 搜索名人的时候会出现
+最后就是名人简介了，google 搜索名人的时候会出现这样的开放数据的面板
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUyNDg3ODksODg0NjcxODM3LDE1OT
-U1ODI3ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYz
-ODM2LDgyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
+eyJoaXN0b3J5IjpbLTk5MjQ2NzM3OSwtMTIxNTI0ODc4OSw4OD
+Q2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2NjEyLC0yNjYyNDY4
+OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1OF19
 -->
