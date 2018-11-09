@@ -17,9 +17,9 @@
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
-
+最后就是名人简介了，google 搜索名人的时候会出现
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MzU0MDgsODg0NjcxODM3LDE1OTU1OD
-I3ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2
-LDgyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
+eyJoaXN0b3J5IjpbLTEyMTUyNDg3ODksODg0NjcxODM3LDE1OT
+U1ODI3ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYz
+ODM2LDgyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
 -->
