@@ -11,7 +11,7 @@
 * Puppeteer
 * cUrl
 * excel / https://www.vicinitas.io/free-tools/download-user-tweets
-* node.js/ typescript
+* node.js/ Typescript
 
 日历的排版设计直接用的 Web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 GatsbyJS。先用 mock 的数据画了个基本的页面，然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
@@ -27,8 +27,8 @@
 
 最后把日期数据和名人名言信息合并成 JSON，制作日历数据就有了。接着使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。再利用 puppeteer 的把2019年的页面都打印成 pdf，最后用 macOs 自带的 pdf 合并工脚本合成日历文件，就大功告成了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNzYyMzIyLC0xMjMwMzA0Mzk3LC05OT
-I0NjczNzksLTEyMTUyNDg3ODksODg0NjcxODM3LDE1OTU1ODI3
-ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LD
-gyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
+eyJoaXN0b3J5IjpbMjU1NTkwNzcwLDUxMDc2MjMyMiwtMTIzMD
+MwNDM5NywtOTkyNDY3Mzc5LC0xMjE1MjQ4Nzg5LDg4NDY3MTgz
+NywxNTk1NTgyNzg2LDEzNjAzMzY2MTIsLTI2NjI0Njg5MCwtMT
+U2NDc2MzgzNiw4Mjc5OTQwMjcsNzY0NDkxOTU4XX0=
 -->
