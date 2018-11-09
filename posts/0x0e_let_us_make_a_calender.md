@@ -1,10 +1,9 @@
-我是自制一套程序员日历的！
+我是自制一套程序员日历,送给你
 ---
 
-好了，再不发点干货，就这么几百个粉丝马上就要掉粉掉没了。
 2018年在 V2 论坛大神
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjkyNDg1NSwtMTU2NDc2MzgzNiw4Mj
+eyJoaXN0b3J5IjpbLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mj
 c5OTQwMjcsNzY0NDkxOTU4XX0=
 -->
