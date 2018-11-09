@@ -9,11 +9,11 @@
 
 日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
-日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cUrl；然后根据规律批量生成 shell 命令执行爬下网页离线分析。接下来是名人名言了，本来是想爬
+日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cUrl；然后根据规律批量生成 shell 命令执行爬下网页离线分析。接下来是名人名言了，本来是想爬这个推特号的；后来转念一想，twitter 不是有 open api 的嘛，直接调用 api 来的多大方爽快啊。结果申请的时候我又觉得麻烦了。
 ![](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjY0OTc0MiwxNTk1NTgyNzg2LDEzNj
-AzMzY2MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQw
-MjcsNzY0NDkxOTU4XX0=
+eyJoaXN0b3J5IjpbODg0NjcxODM3LDE1OTU1ODI3ODYsMTM2MD
+MzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LDgyNzk5NDAy
+Nyw3NjQ0OTE5NThdfQ==
 -->
