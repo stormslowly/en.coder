@@ -1,7 +1,7 @@
 我自制了一套程序员日历送给你
 ---
 
-2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。pshu 看得自然技痒也自己做了本类似。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的：
+2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。pshu 看得自然技痒，也做了本类似。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的：
 
 
 
@@ -13,8 +13,7 @@
 * excel / https://www.vicinitas.io/free-tools/download-user-tweets
 * node.js/ typescript
 
-
-日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 GatsbyJS。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
+日历的排版设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 GatsbyJS。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
 日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cUrl；然后根据规律批量生成 shell 命令执行爬下网页离线分析。
 
@@ -27,9 +26,9 @@
 最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板，正是我想要的。爬 google 这件事情倒是不难，用 puppeteer 轻松就解决了。但 pupeteer 是 google 出的 headless 浏览器， 爬起来有种 ***师夷长技以制夷*** 的喜感。
 ![open data](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
 
-最后把日期数据和名人名言信息合并成 JSON，制作日历数据就有了。接着使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。再利用 puppeteer 的把2019年的页面都打印成 pdf，最后用 macOs 自带的 pdf 合并工具就合成
+最后把日期数据和名人名言信息合并成 JSON，制作日历数据就有了。接着使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。再利用 puppeteer 的把2019年的页面都打印成 pdf，最后用 macOs 自带的 pdf 合并工脚本合成日历文件，就大功告成了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjE1NDk4NCwtMTIzMDMwNDM5NywtOT
+eyJoaXN0b3J5IjpbMjAwODUxMTY3MCwtMTIzMDMwNDM5NywtOT
 kyNDY3Mzc5LC0xMjE1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgy
 Nzg2LDEzNjAzMzY2MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNi
 w4Mjc5OTQwMjcsNzY0NDkxOTU4XX0=
