@@ -27,10 +27,10 @@
 最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板，正是我想要的。爬 google 这件事情倒是不难，用 puppeteer 轻松就解决了。但 pupeteer 是 google 出的 headless 浏览器， 爬起来有种 ***师夷长技以制夷*** 的喜感。
 ![open data](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
 
-最后合并下日期数据和名言名人信息合并成 JSON，制作日历数据就有了。然后使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。
+最后把日期数据和名人名言信息合并成 JSON，制作日历数据就有了。接着使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。再利用 puppeteer 的把2019年的页面都打印成 pdf，最后用 macOs 自带的 pdf 合并工具
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAzMDQzOTcsLTk5MjQ2NzM3OSwtMT
-IxNTI0ODc4OSw4ODQ2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2
-NjEyLC0yNjYyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LD
-c2NDQ5MTk1OF19
+eyJoaXN0b3J5IjpbLTEwMjgxNjExMDEsLTEyMzAzMDQzOTcsLT
+k5MjQ2NzM3OSwtMTIxNTI0ODc4OSw4ODQ2NzE4MzcsMTU5NTU4
+Mjc4NiwxMzYwMzM2NjEyLC0yNjYyNDY4OTAsLTE1NjQ3NjM4Mz
+YsODI3OTk0MDI3LDc2NDQ5MTk1OF19
 -->
