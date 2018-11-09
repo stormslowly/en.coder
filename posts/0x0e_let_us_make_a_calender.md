@@ -6,11 +6,14 @@
 
 
 先和大家分享下制作此日历用的一些基础，如果你只想下载日历，直接拉到底即可。
-日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦
+
+日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用静态数据画了个基本的页面。
+
+接下面就是
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mzk4NjQ3OSwxMzYwMzM2NjEyLC0yNj
+eyJoaXN0b3J5IjpbMTI0NTM5NTM0NiwxMzYwMzM2NjEyLC0yNj
 YyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1
 OF19
 -->
