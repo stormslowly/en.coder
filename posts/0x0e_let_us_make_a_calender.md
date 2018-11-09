@@ -11,8 +11,7 @@
 * Puppeteer
 * cUrl
 * excel / https://www.vicinitas.io/free-tools/download-user-tweets
-* node.js
-
+* node.js/ typescript
 
 
 日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
@@ -25,14 +24,11 @@
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
-最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板，正是我想要的。爬 google 这件事情倒是不难，用的puppeteer
-
-
-
+最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板，正是我想要的。爬 google 这件事情倒是不难，用 puppeteer 轻松就解决了。但 pupeteer 是 google 出的 headless 浏览器， 爬起来有种 ***师夷长技以制夷*** 的喜感。
 ![open data](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MDIyOTQ1LC05OTI0NjczNzksLTEyMT
-UyNDg3ODksODg0NjcxODM3LDE1OTU1ODI3ODYsMTM2MDMzNjYx
-MiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LDgyNzk5NDAyNyw3Nj
-Q0OTE5NThdfQ==
+eyJoaXN0b3J5IjpbMTkwMzYzNDQ3MiwtOTkyNDY3Mzc5LC0xMj
+E1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2
+MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQwMjcsNz
+Y0NDkxOTU4XX0=
 -->
