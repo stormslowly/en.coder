@@ -9,11 +9,11 @@
 
 日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用静态数据画了个基本的页面。
 
-接下面就是
+接下面就是爬数据了。日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务点总是拒绝我。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTM5NTM0NiwxMzYwMzM2NjEyLC0yNj
+eyJoaXN0b3J5IjpbMTQ5NDYyNzY1MCwxMzYwMzM2NjEyLC0yNj
 YyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1
 OF19
 -->
