@@ -26,9 +26,16 @@
 ![open data](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
 
 最后把日期数据和名人名言信息合并成 JSON，制作日历数据就有了。接着使 `gatsby-transformer-json`, 利用 gatsby 的 api 一张日历一个页面。再利用 puppeteer 的把2019年的页面都打印成 pdf，最后用 macOs 自带的 pdf 合并工脚本合成日历文件，就大功告成了。
+
+```bash
+sudo ln "/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" PDFconcat
+
+PDFconcat  --output calendar.pdf 2019*.pdf
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NTkwNzcwLDUxMDc2MjMyMiwtMTIzMD
-MwNDM5NywtOTkyNDY3Mzc5LC0xMjE1MjQ4Nzg5LDg4NDY3MTgz
-NywxNTk1NTgyNzg2LDEzNjAzMzY2MTIsLTI2NjI0Njg5MCwtMT
-U2NDc2MzgzNiw4Mjc5OTQwMjcsNzY0NDkxOTU4XX0=
+eyJoaXN0b3J5IjpbMjU1MTMxOTA2LDI1NTU5MDc3MCw1MTA3Nj
+IzMjIsLTEyMzAzMDQzOTcsLTk5MjQ2NzM3OSwtMTIxNTI0ODc4
+OSw4ODQ2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2NjEyLC0yNj
+YyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1
+OF19
 -->
