@@ -6,11 +6,11 @@
 
 
 先和大家分享下制作此日历用的一些基础，如果你只想下载日历，直接拉到底即可。
-日历的样式的设计直接用的
+日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTI0NzUxMywxMzYwMzM2NjEyLC0yNj
+eyJoaXN0b3J5IjpbMTczMTMzMzI4OCwxMzYwMzM2NjEyLC0yNj
 YyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1
 OF19
 -->
