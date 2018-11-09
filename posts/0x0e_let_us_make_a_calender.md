@@ -7,14 +7,14 @@
 
 先和大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
 
-* React/Next.js
+* React/GatsbyJS
 * Puppeteer
 * cUrl
 * excel / https://www.vicinitas.io/free-tools/download-user-tweets
 * node.js/ typescript
 
 
-日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
+日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 gatsby.js。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
 日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cUrl；然后根据规律批量生成 shell 命令执行爬下网页离线分析。
 
@@ -26,9 +26,11 @@
 
 最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板，正是我想要的。爬 google 这件事情倒是不难，用 puppeteer 轻松就解决了。但 pupeteer 是 google 出的 headless 浏览器， 爬起来有种 ***师夷长技以制夷*** 的喜感。
 ![open data](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
+
+最后合并下日期数据和名言名人信息合并成 JSON，制作日历数据就有了。然后使
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzYzNDQ3MiwtOTkyNDY3Mzc5LC0xMj
-E1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2
-MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQwMjcsNz
-Y0NDkxOTU4XX0=
+eyJoaXN0b3J5IjpbLTE3NTY1NTAxMDEsLTk5MjQ2NzM3OSwtMT
+IxNTI0ODc4OSw4ODQ2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2
+NjEyLC0yNjYyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LD
+c2NDQ5MTk1OF19
 -->
