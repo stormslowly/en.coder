@@ -10,7 +10,9 @@
 * React/Next.js
 * Puppeteer
 * cUrl
-* 
+* excel / https://www.vicinitas.io/free-tools/download-user-tweets
+* node.js
+
 
 
 日历的样式的设计直接用的 web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 Next.js。先用 mock 的数据画了个基本的页面。然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
@@ -23,9 +25,10 @@
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
-最后就是名人简介了，google 搜索名人的时候会出现这样的开放数据的面板
+最后就是名人简介了，google 搜索名人的时候会出现下面这样的开放数据的面板![](http://cdn2.51ulong.com/18-11-10/55195630.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjQ2NzM3OSwtMTIxNTI0ODc4OSw4OD
-Q2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2NjEyLC0yNjYyNDY4
-OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1OF19
+eyJoaXN0b3J5IjpbLTQ5NjI0MDUxNiwtOTkyNDY3Mzc5LC0xMj
+E1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2
+MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQwMjcsNz
+Y0NDkxOTU4XX0=
 -->
