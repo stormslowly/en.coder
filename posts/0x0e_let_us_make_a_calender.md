@@ -11,11 +11,12 @@
 
 日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cUrl；然后根据规律批量生成 shell 命令执行爬下网页离线分析。接下来是名人名言了，本来是想爬这个推特号的；后来转念一想，twitter 不是有 open api 的嘛，直接调用 api 来的多大方爽快啊。结果申请的时候我又觉得麻烦了，放弃了。最后直接 google，“download tweets of a user”，一堆现成的服务，随便选了一个授权下直接所有的推文都变成 excel 下载下来。
 
+之所以用的 tweet 的中名言数据是看中每个推下面有 like 的统计，这样就可以帮我筛选出那些能够东
 
-![](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
+![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUwMjA0MjYsODg0NjcxODM3LDE1OT
-U1ODI3ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYz
-ODM2LDgyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
+eyJoaXN0b3J5IjpbLTI1NjEyMDIxMCw4ODQ2NzE4MzcsMTU5NT
+U4Mjc4NiwxMzYwMzM2NjEyLC0yNjYyNDY4OTAsLTE1NjQ3NjM4
+MzYsODI3OTk0MDI3LDc2NDQ5MTk1OF19
 -->
