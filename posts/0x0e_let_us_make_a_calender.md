@@ -32,10 +32,12 @@ sudo ln "/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/j
 
 PDFconcat  --output calendar.pdf 2019*.pdf
 ```
+
+日历的下载
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MTMxOTA2LDI1NTU5MDc3MCw1MTA3Nj
-IzMjIsLTEyMzAzMDQzOTcsLTk5MjQ2NzM3OSwtMTIxNTI0ODc4
-OSw4ODQ2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2NjEyLC0yNj
-YyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1
-OF19
+eyJoaXN0b3J5IjpbLTQwMDg4NjgxNSwyNTUxMzE5MDYsMjU1NT
+kwNzcwLDUxMDc2MjMyMiwtMTIzMDMwNDM5NywtOTkyNDY3Mzc5
+LC0xMjE1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LDEzNj
+AzMzY2MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQw
+MjcsNzY0NDkxOTU4XX0=
 -->
