@@ -15,11 +15,11 @@
 
 日历的排版设计直接用的 Web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 GatsbyJS。先用 mock 的数据画了个基本的页面，然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
-日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cUrl；然后根据规律批量生成 shell 命令执行爬下网页离线分析。
+日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cURL；然后根据规律批量生成 shell 命令执行，爬下网页离线分析。
 
-![copy as cUrl](http://cdn2.51ulong.com/18-11-14/45994991.jpg)
+![copy as cURL ](http://cdn2.51ulong.com/18-11-14/45994991.jpg)
 
-接下来是名人名言了，本来是想爬这个推特号的；后来转念一想，twitter 不是有 open api 的嘛，直接调用 api 来的多大方多爽快啊。结果申请的时候我又觉得麻烦了，放弃了。最后直接 google，“download tweets of a user”，一堆现成的服务，随便选了一个，授权下，所有的推文 excel 格式下载下来。
+接下来是名人名言了，本来是想爬这个 ***@codeWisdom*** 推特号的；后来转念一想，twitter 不是有 Open Api 的嘛，直接调用 api 来的多大方多爽快啊。结果申请的时候我又觉得麻烦了，放弃了。最后直接 google，“download tweets of a user”，一堆现成的服务，随便选了一个，授权下，所有的推文 excel 格式下载下来。
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
 之所以用 tweet 上的名言数据是看中每个推下面有 like 的统计，这样就可以帮我筛选出那些能够打动程序员内心的名言了；既然是 excel 通过简单筛选排序，整理下文字，然后导出 cvs 。
@@ -37,9 +37,9 @@ PDFconcat  --output calendar.pdf 2019*.pdf
 
 日历的下载
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc4MTM3MjgsLTY1NjY1NjczLC00MD
-A4ODY4MTUsMjU1MTMxOTA2LDI1NTU5MDc3MCw1MTA3NjIzMjIs
-LTEyMzAzMDQzOTcsLTk5MjQ2NzM3OSwtMTIxNTI0ODc4OSw4OD
-Q2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2NjEyLC0yNjYyNDY4
-OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5MTk1OF19
+eyJoaXN0b3J5IjpbLTc1OTU1Nzg5NiwtNjU2NjU2NzMsLTQwMD
+g4NjgxNSwyNTUxMzE5MDYsMjU1NTkwNzcwLDUxMDc2MjMyMiwt
+MTIzMDMwNDM5NywtOTkyNDY3Mzc5LC0xMjE1MjQ4Nzg5LDg4ND
+Y3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2MTIsLTI2NjI0Njg5
+MCwtMTU2NDc2MzgzNiw4Mjc5OTQwMjcsNzY0NDkxOTU4XX0=
 -->
