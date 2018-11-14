@@ -46,15 +46,16 @@ PDFconcat  --output calendar.pdf 2019*.pdf
 
 ## 日历的下载
 
-大家拿到日历的 pdf，可以打印到 A5 的纸上，然后弄个架子放在桌面就可以每天受到计算机大牛对你的谆谆教诲了。
+大家拿到日历的 pdf，可以打印到 A5 的纸上，然后弄个架子放在桌面就可以每天受到计算机大牛对你的谆谆教诲了。如果你是抽奖中的粉丝的话，就等着收快递吧！
 
 链接: https://pan.baidu.com/s/1KGqf8moH-hXfLjmygagjFA 
 提取码: 2vs1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDI5NjM2NCwtMTg4ODg2MzIyMSwtMT
-A4NTQ0NTAxNiwtNzU5NTU3ODk2LC02NTY2NTY3MywtNDAwODg2
-ODE1LDI1NTEzMTkwNiwyNTU1OTA3NzAsNTEwNzYyMzIyLC0xMj
-MwMzA0Mzk3LC05OTI0NjczNzksLTEyMTUyNDg3ODksODg0Njcx
-ODM3LDE1OTU1ODI3ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC
-0xNTY0NzYzODM2LDgyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
+eyJoaXN0b3J5IjpbLTk5ODUxMjU2OSwtNDAwMjk2MzY0LC0xOD
+g4ODYzMjIxLC0xMDg1NDQ1MDE2LC03NTk1NTc4OTYsLTY1NjY1
+NjczLC00MDA4ODY4MTUsMjU1MTMxOTA2LDI1NTU5MDc3MCw1MT
+A3NjIzMjIsLTEyMzAzMDQzOTcsLTk5MjQ2NzM3OSwtMTIxNTI0
+ODc4OSw4ODQ2NzE4MzcsMTU5NTU4Mjc4NiwxMzYwMzM2NjEyLC
+0yNjYyNDY4OTAsLTE1NjQ3NjM4MzYsODI3OTk0MDI3LDc2NDQ5
+MTk1OF19
 -->
