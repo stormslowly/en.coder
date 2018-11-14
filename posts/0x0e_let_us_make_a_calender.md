@@ -44,12 +44,12 @@ PDFconcat  --output calendar.pdf 2019*.pdf
 
 ## 日历的下载
 
-大家拿到日历的 pdf，可以da
+大家拿到日历的 pdf，可以打印到 A5 的纸上，然后弄个架子放在桌面就可以明天收到计算机大牛对你的谆谆教诲了。
 
 链接: https://pan.baidu.com/s/1KGqf8moH-hXfLjmygagjFA 
 提取码: 2vs1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk4MzU3NTMsLTEwODU0NDUwMTYsLT
+eyJoaXN0b3J5IjpbLTE4ODg4NjMyMjEsLTEwODU0NDUwMTYsLT
 c1OTU1Nzg5NiwtNjU2NjU2NzMsLTQwMDg4NjgxNSwyNTUxMzE5
 MDYsMjU1NTkwNzcwLDUxMDc2MjMyMiwtMTIzMDMwNDM5NywtOT
 kyNDY3Mzc5LC0xMjE1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgy
