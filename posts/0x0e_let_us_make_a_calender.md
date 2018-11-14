@@ -1,9 +1,9 @@
 我自制了一套程序员日历送给你
 ---
 
-2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。而明年2019年的程序员日历，图灵有开售了，pshu 看得自然技痒，也做了本2019年的程序员日历。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的：
+2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。而明年2019年的程序员日历，图灵有开售了，pshu 看得自然技痒，也做了本2019年的程序员日历。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的，最上面和最下面分别是当天和当周d
 
-![calendar](http://cdn2.51ulong.com/18-11-10/22054520.jpg)
+![cal-01-01](http://cdn2.51ulong.com/18-11-14/98547659.jpg)
 
 先和大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
 
@@ -46,7 +46,7 @@ PDFconcat  --output calendar.pdf 2019*.pdf
 链接: https://pan.baidu.com/s/1KGqf8moH-hXfLjmygagjFA 
 提取码: 2vs1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc3MDUwNDksLTEwODU0NDUwMTYsLT
+eyJoaXN0b3J5IjpbLTEwMjgyNTg0MzQsLTEwODU0NDUwMTYsLT
 c1OTU1Nzg5NiwtNjU2NjU2NzMsLTQwMDg4NjgxNSwyNTUxMzE5
 MDYsMjU1NTkwNzcwLDUxMDc2MjMyMiwtMTIzMDMwNDM5NywtOT
 kyNDY3Mzc5LC0xMjE1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgy
