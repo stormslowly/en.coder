@@ -13,12 +13,15 @@
 * excel / https://www.vicinitas.io/free-tools/download-user-tweets
 * node.js/ Typescript
 
+## 排版 (react/gatsby.js)
 日历的排版设计直接用的 Web 技术。但是 pshu 其实是个前端技术的渣渣，勉强会有点 React，再加上觉得 webpack 配置太麻烦，就直接使用 GatsbyJS。先用 mock 的数据画了个基本的页面，然后用 chrome 浏览器的打印到 pdf 的功能看了下效果，基本满意就开始爬数据了。
 
+## 日历数据爬取 (cURL)
 日历日期数据的话随便找个在线的日历服务即可。这里有个小坑就是 pshu 用请求库 `superagent` 模拟请求，服务端总是拒绝我。后来直接在 chrome 控制台，把网络请求 copy as cURL；然后根据规律批量生成 shell 命令执行，爬下网页离线分析。
 
 ![copy as cURL ](http://cdn2.51ulong.com/18-11-14/45994991.jpg)
 
+## 名言数据 ()
 接下来是名人名言了，本来是想爬这个 ***@codeWisdom*** 推特号的；后来转念一想，twitter 不是有 Open Api 的嘛，直接调用 api 来的多大方多爽快啊。结果申请的时候我又觉得麻烦了，放弃了。最后直接 google，“download tweets of a user”，一堆现成的服务，随便选了一个，授权下，所有的推文 excel 格式下载下来。
 
 ![code wisdom](http://cdn2.51ulong.com/18-11-9/94816503.jpg)
@@ -35,14 +38,14 @@ sudo ln "/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/j
 PDFconcat  --output calendar.pdf 2019*.pdf
 ```
 
-日历的下载
+## 日历的下载
 链接: https://pan.baidu.com/s/1KGqf8moH-hXfLjmygagjFA 
 提取码: 2vs1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU0NDUwMTYsLTc1OTU1Nzg5NiwtNj
-U2NjU2NzMsLTQwMDg4NjgxNSwyNTUxMzE5MDYsMjU1NTkwNzcw
-LDUxMDc2MjMyMiwtMTIzMDMwNDM5NywtOTkyNDY3Mzc5LC0xMj
-E1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2
-MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5OTQwMjcsNz
-Y0NDkxOTU4XX0=
+eyJoaXN0b3J5IjpbLTYwMTA1OTE2OCwtMTA4NTQ0NTAxNiwtNz
+U5NTU3ODk2LC02NTY2NTY3MywtNDAwODg2ODE1LDI1NTEzMTkw
+NiwyNTU1OTA3NzAsNTEwNzYyMzIyLC0xMjMwMzA0Mzk3LC05OT
+I0NjczNzksLTEyMTUyNDg3ODksODg0NjcxODM3LDE1OTU1ODI3
+ODYsMTM2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LD
+gyNzk5NDAyNyw3NjQ0OTE5NThdfQ==
 -->
