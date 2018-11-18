@@ -8,7 +8,7 @@
 ![cal-01-01](http://cdn2.51ulong.com/18-11-14/98547659.jpg)
 
 真实买家秀如下：
-![](http://cdn2.51ulong.com/18-11-18/63962556.jpg)
+![show](http://cdn2.51ulong.com/18-11-18/63962556.jpg)
 
 先和大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
 
@@ -54,11 +54,11 @@ PDFconcat  --output calendar.pdf 2019*.pdf
 链接: https://pan.baidu.com/s/1KGqf8moH-hXfLjmygagjFA 
 提取码: 2vs1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAyNTgzOCwtMTczNTI2MDYyOSwxMT
-k4Mjg1MjYwLC05OTg1MTI1NjksLTQwMDI5NjM2NCwtMTg4ODg2
-MzIyMSwtMTA4NTQ0NTAxNiwtNzU5NTU3ODk2LC02NTY2NTY3My
-wtNDAwODg2ODE1LDI1NTEzMTkwNiwyNTU1OTA3NzAsNTEwNzYy
-MzIyLC0xMjMwMzA0Mzk3LC05OTI0NjczNzksLTEyMTUyNDg3OD
-ksODg0NjcxODM3LDE1OTU1ODI3ODYsMTM2MDMzNjYxMiwtMjY2
-MjQ2ODkwXX0=
+eyJoaXN0b3J5IjpbMzc3MzY1NjUsLTE3MzUyNjA2MjksMTE5OD
+I4NTI2MCwtOTk4NTEyNTY5LC00MDAyOTYzNjQsLTE4ODg4NjMy
+MjEsLTEwODU0NDUwMTYsLTc1OTU1Nzg5NiwtNjU2NjU2NzMsLT
+QwMDg4NjgxNSwyNTUxMzE5MDYsMjU1NTkwNzcwLDUxMDc2MjMy
+MiwtMTIzMDMwNDM5NywtOTkyNDY3Mzc5LC0xMjE1MjQ4Nzg5LD
+g4NDY3MTgzNywxNTk1NTgyNzg2LDEzNjAzMzY2MTIsLTI2NjI0
+Njg5MF19
 -->
