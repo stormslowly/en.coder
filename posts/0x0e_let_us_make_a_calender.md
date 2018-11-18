@@ -1,11 +1,12 @@
 我自制了一套程序员日历送给你
 ---
 
-先说重点，zhufa留言抽取2名粉丝送 pshu 自制日历一本，包邮！推荐公众号给好友的话中奖概率会加成哦！(滑稽)
+先说重点，转发本文留言，抽取2名粉丝送 pshu 自制日历一本，包邮！推荐公众号给好友的话中奖概率会加成哦！(滑稽)
 
-2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。而明年2019年的程序员日历，图灵有开售了，pshu 看得自然技痒，也做了本2019年的程序员日历。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的，最上面和最下面分别是当天和当周的日期，中间部分是名人名言和该名人的 wiki 中文简介。
+2018年在 V2 论坛大神出了本程序员日历（原贴在这里 https://www.v2ex.com/t/408428 ），之后图灵出版社还出限量版。而明年2019年的程序员日历，图灵又开售了，pshu 看得自然技痒，也做了本2019年的程序员日历。每天一句计算机相关的名人名言，附带上名人的简介。样子是这样的，最上面和最下面分别是当天和当周的日期，中间部分是名人名言和该名人的 wiki 中文简介。
 
 ![cal-01-01](http://cdn2.51ulong.com/18-11-14/98547659.jpg)
+
 
 先和大家分享下制作此日历用的一些技术，如果你只想下载日历，直接拉到底即可。
 
@@ -51,11 +52,11 @@ PDFconcat  --output calendar.pdf 2019*.pdf
 链接: https://pan.baidu.com/s/1KGqf8moH-hXfLjmygagjFA 
 提取码: 2vs1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzI1MTk4NywtOTk4NTEyNTY5LC00MD
-AyOTYzNjQsLTE4ODg4NjMyMjEsLTEwODU0NDUwMTYsLTc1OTU1
-Nzg5NiwtNjU2NjU2NzMsLTQwMDg4NjgxNSwyNTUxMzE5MDYsMj
-U1NTkwNzcwLDUxMDc2MjMyMiwtMTIzMDMwNDM5NywtOTkyNDY3
-Mzc5LC0xMjE1MjQ4Nzg5LDg4NDY3MTgzNywxNTk1NTgyNzg2LD
-EzNjAzMzY2MTIsLTI2NjI0Njg5MCwtMTU2NDc2MzgzNiw4Mjc5
-OTQwMjddfQ==
+eyJoaXN0b3J5IjpbNjU5NDM5MDQ2LC05OTg1MTI1NjksLTQwMD
+I5NjM2NCwtMTg4ODg2MzIyMSwtMTA4NTQ0NTAxNiwtNzU5NTU3
+ODk2LC02NTY2NTY3MywtNDAwODg2ODE1LDI1NTEzMTkwNiwyNT
+U1OTA3NzAsNTEwNzYyMzIyLC0xMjMwMzA0Mzk3LC05OTI0Njcz
+NzksLTEyMTUyNDg3ODksODg0NjcxODM3LDE1OTU1ODI3ODYsMT
+M2MDMzNjYxMiwtMjY2MjQ2ODkwLC0xNTY0NzYzODM2LDgyNzk5
+NDAyN119
 -->
