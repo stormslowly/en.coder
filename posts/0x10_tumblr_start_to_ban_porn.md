@@ -38,7 +38,10 @@ Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社
 
 从 2018 年 12 月 17 日开始，我们将开始执行这项新政策。拥有 Tumblr 不再允许的内容的社区成员会提前收到我们的通知，如果他们愿意，可以进行申诉或将他们的内容保留在社区之外。所有变化都不会在一夜之间发生，因为这种复杂操作需要时间。
 
-Another thing, filtering this type of content versus say, a political protest with nudity or the statue of David, is not simple at scale. We’re relying on automated tools to identify adult content and humans to help train and keep our systems in check. We know there will be mistakes, but we’ve done our best to create and enforce a policy that acknowledges the breadth of expression we see in the community.
+> Another thing, filtering this type of content versus say, a political protest with nudity or the statue of David, is not simple at scale. We’re relying on automated tools to identify adult content and humans to help train and keep our systems in check. We know there will be mistakes, but we’ve done our best to create and enforce a policy that acknowledges the breadth of expression we see in the community.
+
+另外，过滤这种类型的内容，并不是禁止裸体政治抗议或大卫雕像。这个操作并不简单。我们依靠自动化工具来识别成人内容，也依靠人类帮助训练和控制我们的系统。我们知道错误在所难免，但我们已尽最大努力制定并实施这项政策，以感谢我们在社区中看到的百家争鸣。
+
 
 Most importantly, we’re going to be as transparent as possible with you about the decisions we’re making and resources available to you,  [including more detailed information](https://support.tumblr.com/post/180758979032/updates-to-tumblrs-community-guidelines), product enhancements, and more content moderators to interface directly with the community and content.
 
@@ -47,5 +50,5 @@ Like you, we love Tumblr and what it’s come to mean for millions of people aro
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMjIyMzE1LDE5OTgyNTI0MDZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODkxODA3ODgsMTk5ODI1MjQwNl19
 -->
