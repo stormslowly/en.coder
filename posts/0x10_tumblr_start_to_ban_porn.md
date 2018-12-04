@@ -12,11 +12,15 @@
 
 在过去的几个月里，受到我们历史的启发，我们认真进行了考量，思考我们在不断发展的社区中希望扮演什么样的角色，并努力为发展一个更好的 Tumblr 打下基础。我们已经意识到，为了继续履行我们的承诺并巩固我们在文化中的地位，特别是当文化不断发展之时，我们必须改变 。其中一些变化始于[促进我们社区成员之间更具建设性的对话](https://guanbo.tumblr.com/post/177491677968/%E6%88%91%E4%BB%AC%E7%9A%84%E7%A4%BE%E5%8C%BA%E5%87%86%E5%88%99%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0-%E4%BF%9D%E9%9A%9C-tumblr)。今天，我们迈出了另一步，不再允许出现成人内容，包括不雅的涉性内容和裸露（有一些例外）。
 
-Let’s first be unequivocal about something that should not be confused with today’s policy change: posting anything that is harmful to minors, including child pornography, is abhorrent and has no place in our community. We’ve always had and always will have a zero tolerance policy for this type of content. To this end, we continuously invest in the enforcement of this policy, including industry-standard machine monitoring, a growing team of human moderators, and user tools that make it easy to report abuse. We also closely partner with the National Center for Missing and Exploited Children and the Internet Watch Foundation, two invaluable organizations at the forefront of protecting our children from abuse, and through these partnerships we report violations of this policy to law enforcement authorities. We can never prevent all bad actors from attempting to abuse our platform, but we make it our highest priority to keep the community as safe as possible.
+>Let’s first be unequivocal about something that should not be confused with today’s policy change: posting anything that is harmful to minors, including child pornography, is abhorrent and has no place in our community. We’ve always had and always will have a zero tolerance policy for this type of content. To this end, we continuously invest in the enforcement of this policy, including industry-standard machine monitoring, a growing team of human moderators, and user tools that make it easy to report abuse. We also closely partner with the National Center for Missing and Exploited Children and the Internet Watch Foundation, two invaluable organizations at the forefront of protecting our children from abuse, and through these partnerships we report violations of this policy to law enforcement authorities. We can never prevent all bad actors from attempting to abuse our platform, but we make it our highest priority to keep the community as safe as possible.
 
-## So what is changing?
+让我们首先明确一点，不要将它与今天的政策变化混为一谈：发布任何对未成年人有害的内容，包括儿童色情内容，都令人憎恶且不容于我们的社区。对于此类内容，我们一直以来都设立了并始终采取了零容忍政策。为此，我们不断加大投资推动此政策的实施，包括符合行业标准的机器监控、不断壮大的人类仲裁团队以及便于举报滥用行为的用户工具。我们还与国家失踪与受剥削儿童中心和互联网观察基金会密切合作，这两个组织均位于保护我们的儿童免受虐待的最前沿。我们通过这些伙伴关系向执法机关报告违反该政策的行为。我们永远无法阻止所有不良行为者试图滥用我们的平台，但我们将社区安全列为首要任务， 尽我们所能保障社区的安全。
 
-Posts that contain adult content will no longer be allowed on Tumblr, and we’ve  [updated our Community Guidelines](https://www.tumblr.com/policy/new_community)  to reflect this policy change. We recognize Tumblr is also a place to speak freely about topics like art, sex positivity, your relationships, your sexuality, and your personal journey. We want to make sure that we continue to foster this type of diversity of expression in the community, so our new policy strives to strike a balance.
+## So what is changing?(那么会有什么改变？)
+
+> Posts that contain adult content will no longer be allowed on Tumblr, and we’ve  [updated our Community Guidelines](https://www.tumblr.com/policy/new_community)  to reflect this policy change. We recognize Tumblr is also a place to speak freely about topics like art, sex positivity, your relationships, your sexuality, and your personal journey. We want to make sure that we continue to foster this type of diversity of expression in the community, so our new policy strives to strike a balance.
+
+Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社区准则](https://www.tumblr.com/policy/new_community)以反映这一政策更改。我们认识到， Tumblr 也是一个自由发表任何话题的地方 ，例如艺术、积极的性态度、你的人际关系、性取向和个人历程等。我们希望确保在社区中继续鼓励这种多元化的表达，因此我们的新政策力求取得一种平衡。
 
 ## Why are we doing this?
 
@@ -37,5 +41,5 @@ Like you, we love Tumblr and what it’s come to mean for millions of people aro
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTgyODU1XX0=
+eyJoaXN0b3J5IjpbLTExNzcxMzIyMDhdfQ==
 -->
