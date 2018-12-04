@@ -34,7 +34,9 @@ Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社
 
 ## So what’s next?()
 
-Starting December 17, 2018, we will begin enforcing this new policy. Community members with content that is no longer permitted on Tumblr will get a heads up from us in advance and steps they can take to appeal or preserve their content outside the community if they so choose. All changes won’t happen overnight as something of this complexity takes time.
+>Starting December 17, 2018, we will begin enforcing this new policy. Community members with content that is no longer permitted on Tumblr will get a heads up from us in advance and steps they can take to appeal or preserve their content outside the community if they so choose. All changes won’t happen overnight as something of this complexity takes time.
+
+从 2018 年 12 月 17 日开始，我们将开始执行这项新政策。拥有 Tumblr 不再允许的内容的社区成员会提前收到我们的通知，如果他们愿意，可以进行申诉或将他们的内容保留在社区之外。所有变化都不会在一夜之间发生，因为这种复杂操作需要时间。
 
 Another thing, filtering this type of content versus say, a political protest with nudity or the statue of David, is not simple at scale. We’re relying on automated tools to identify adult content and humans to help train and keep our systems in check. We know there will be mistakes, but we’ve done our best to create and enforce a policy that acknowledges the breadth of expression we see in the community.
 
@@ -45,5 +47,5 @@ Like you, we love Tumblr and what it’s come to mean for millions of people aro
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODI1MjQwNl19
+eyJoaXN0b3J5IjpbOTQyMjIyMzE1LDE5OTgyNTI0MDZdfQ==
 -->
