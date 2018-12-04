@@ -1,4 +1,4 @@
-汤不热开始禁止成人内容了！
+汤不热开始禁止成人内容了，你学习英语的机会来了！
 ---
 十二月4号，tumblr 的官方账号发布信息，从2018年12月17日开始将开始全面禁止成人内容。公告一出，网民们纷(e)纷(wan)叫(tan)好(xi)。作为一位国际主义的码农，这个时候当然不能错过去再登录汤站学(kan)英(kan)语(pian)的机会了。一位作为政策性的调整，网站发了中英文两个版本。作为英语爱好者，当然可以借此来对比两个版本来学习英语咯。
 
@@ -57,8 +57,8 @@ CEO
 
 ## pshu 唠叨下
 
-总公告看出，tumblr 在发展自己轻社区的时候，还是本着对 “world” 的考量，x
+从公告看出，tumblr 在发展自己轻社区的时候，还是本着对 “world” 的考量，希望自己的社区能够对大范围的人所接受和喜欢，并且助力自我表达。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQyNzAxNTMsLTkxNzcyMDQxNywxOT
+eyJoaXN0b3J5IjpbLTE3Njc5ODk3MjEsLTkxNzcyMDQxNywxOT
 k4MjUyNDA2XX0=
 -->
