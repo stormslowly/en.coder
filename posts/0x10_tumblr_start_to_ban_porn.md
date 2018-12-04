@@ -42,13 +42,16 @@ Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社
 
 另外，过滤这种类型的内容，并不是禁止裸体政治抗议或大卫雕像。这个操作并不简单。我们依靠自动化工具来识别成人内容，也依靠人类帮助训练和控制我们的系统。我们知道错误在所难免，但我们已尽最大努力制定并实施这项政策，以感谢我们在社区中看到的百家争鸣。
 
+>Most importantly, we’re going to be as transparent as possible with you about the decisions we’re making and resources available to you,  [including more detailed information](https://support.tumblr.com/post/180758979032/updates-to-tumblrs-community-guidelines), product enhancements, and more content moderators to interface directly with the community and content.
 
-Most importantly, we’re going to be as transparent as possible with you about the decisions we’re making and resources available to you,  [including more detailed information](https://support.tumblr.com/post/180758979032/updates-to-tumblrs-community-guidelines), product enhancements, and more content moderators to interface directly with the community and content.
+最重要的是，我们将尽可能透明地告知你我们正在做的决策以及可供你使用的资源，其中包括[更详细的信息](https://guanbo.tumblr.com/post/180759132088/tumblr-%E7%A4%BE%E5%8C%BA%E5%87%86%E5%88%99%E6%9B%B4%E6%96%B0)、产品增强功能以​​及更多内容仲裁人，以与社区和内容直接互动。
 
-Like you, we love Tumblr and what it’s come to mean for millions of people around the world. Our actions are out of love and hope for our community. We won’t always get this right, especially in the beginning, but we are determined to make your experience a positive one.
+> Like you, we love Tumblr and what it’s come to mean for millions of people around the world. Our actions are out of love and hope for our community. We won’t always get this right, especially in the beginning, but we are determined to make your experience a positive one.
+
+和你一样，我们热爱 Tumblr 和它对全世界数百万人的意义。我们的行动是出于对社区的爱和希望。我们不会万无一失，尤其是在刚开始的时候。但我们致力于给你一个更积极正面的体验。
 
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkxODA3ODgsMTk5ODI1MjQwNl19
+eyJoaXN0b3J5IjpbLTkxNzcyMDQxNywxOTk4MjUyNDA2XX0=
 -->
