@@ -4,7 +4,7 @@
 
 ![compare](http://cdn2.51ulong.com/18-12-4/61479403.jpg)
 
-pshu 已经将中英文的段落交替的放在一起，方便大家对照阅读。这样的对照阅读个人觉得对英语学习非常的有帮助，特别是一些翻译方法上的提高更加的直接。本来 pshu 还想在文章中，夹杂一些自己的注解，尝试写了一下，感觉太破坏文章的结构了，所
+pshu 已经将中英文的段落交替的放在一起，方便大家对照阅读。这样的对照阅读个人觉得对英语学习非常的有帮助，特别是一些翻译方法上的提高更加的直接。本来 pshu 还想在文章中，夹杂一些自己的注解，尝试写了一下，感觉太破坏文章的结构了，注解的内容将会以其他的形式和大家分享。
 
 >Since its founding in 2007, Tumblr has always been a place for wide open, creative self-expression at the heart of community and culture. To borrow from our founder David Karp, we’re proud to have inspired a generation of artists, writers, creators, curators, and crusaders to redefine our culture and to help empower individuality.
 
@@ -55,8 +55,10 @@ Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社
 Jeff D’Onofrio  
 CEO
 
+## pshu 唠叨下
 
+总公告看出，tumblr 在发展自己轻社区的时候，还是本着对 “world” 的考量，x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTMxODA0NSwtOTE3NzIwNDE3LDE5OT
-gyNTI0MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjQyNzAxNTMsLTkxNzcyMDQxNywxOT
+k4MjUyNDA2XX0=
 -->
