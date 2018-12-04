@@ -8,7 +8,9 @@
 
 自 2007 年创立以来，Tumblr 一直是一个以社区和文化为核心的、能够开放地、创造性地自我表达的场所。借用我们的创始人 David Karp 的话来说，我们很自豪有幸激励了一代艺术家、作家、创作者、策展人和奋斗者来重新定义我们的文化，为个性赋予了更多的力量。
 
-Over the past several months, and inspired by our storied past, we’ve given serious thought to who we want to be to our community moving forward and have been hard at work laying the foundation for a better Tumblr. We’ve realized that in order to continue to fulfill our promise and place in culture, especially as it evolves, we must change. Some of that change began with  [fostering more constructive dialogue among our community members](https://staff.tumblr.com/post/177449083750/new-community-guidelines). Today, we’re taking another step by no longer allowing adult content, including explicit sexual content and nudity (with some exceptions).
+>Over the past several months, and inspired by our storied past, we’ve given serious thought to who we want to be to our community moving forward and have been hard at work laying the foundation for a better Tumblr. We’ve realized that in order to continue to fulfill our promise and place in culture, especially as it evolves, we must change. Some of that change began with  [fostering more constructive dialogue among our community members](https://staff.tumblr.com/post/177449083750/new-community-guidelines). Today, we’re taking another step by no longer allowing adult content, including explicit sexual content and nudity (with some exceptions).
+
+在过去的几个月里，受到我们历史的启发，我们认真进行了考量，思考我们在不断发展的社区中希望扮演什么样的角色，并努力为发展一个更好的 Tumblr 打下基础。我们已经意识到，为了继续履行我们的承诺并巩固我们在文化中的地位，特别是当文化不断发展之时，我们必须改变 。其中一些变化始于[促进我们社区成员之间更具建设性的对话](https://guanbo.tumblr.com/post/177491677968/%E6%88%91%E4%BB%AC%E7%9A%84%E7%A4%BE%E5%8C%BA%E5%87%86%E5%88%99%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0-%E4%BF%9D%E9%9A%9C-tumblr)。今天，我们迈出了另一步，不再允许出现成人内容，包括不雅的涉性内容和裸露（有一些例外）。
 
 Let’s first be unequivocal about something that should not be confused with today’s policy change: posting anything that is harmful to minors, including child pornography, is abhorrent and has no place in our community. We’ve always had and always will have a zero tolerance policy for this type of content. To this end, we continuously invest in the enforcement of this policy, including industry-standard machine monitoring, a growing team of human moderators, and user tools that make it easy to report abuse. We also closely partner with the National Center for Missing and Exploited Children and the Internet Watch Foundation, two invaluable organizations at the forefront of protecting our children from abuse, and through these partnerships we report violations of this policy to law enforcement authorities. We can never prevent all bad actors from attempting to abuse our platform, but we make it our highest priority to keep the community as safe as possible.
 
@@ -35,5 +37,5 @@ Like you, we love Tumblr and what it’s come to mean for millions of people aro
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTg3MjY1Nl19
+eyJoaXN0b3J5IjpbLTk1MjE4OTQ3MV19
 -->
