@@ -22,9 +22,11 @@
 
 Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社区准则](https://www.tumblr.com/policy/new_community)以反映这一政策更改。我们认识到， Tumblr 也是一个自由发表任何话题的地方 ，例如艺术、积极的性态度、你的人际关系、性取向和个人历程等。我们希望确保在社区中继续鼓励这种多元化的表达，因此我们的新政策力求取得一种平衡。
 
-## Why are we doing this?
+## Why are we doing this? (我们为什么这样做？)
 
-It is our continued, humble aspiration that Tumblr be a safe place for creative expression, self-discovery, and a deep sense of community. As Tumblr continues to grow and evolve, and our understanding of our impact on our world becomes clearer, we have a responsibility to consider that impact across different age groups, demographics, cultures, and mindsets. We spent considerable time weighing the pros and cons of expression in the community that includes adult content. In doing so, it became clear that without this content we have the opportunity to create a place where more people feel comfortable expressing themselves.
+>It is our continued, humble aspiration that Tumblr be a safe place for creative expression, self-discovery, and a deep sense of community. As Tumblr continues to grow and evolve, and our understanding of our impact on our world becomes clearer, we have a responsibility to consider that impact across different age groups, demographics, cultures, and mindsets. We spent considerable time weighing the pros and cons of expression in the community that includes adult content. In doing so, it became clear that without this content we have the opportunity to create a place where more people feel comfortable expressing themselves.
+
+在我们长久以来的小小理想中，Tumblr 是一个创造性表达、自我发现的安全之地，也是一种深度的社区意识。随着 Tumblr 不断发展和进化，我们更清晰的了解到我们对世界的影响，我们有责任考虑到对不同的年龄群体、人口结构、文化和思维方式的影响。我们花了相当多的时间来衡量在社区中允许出现成人内容的利弊。通过这样做，我们了解到，只有没有了这些内容，我们才有机会创造一个让更多人感到舒适的表达自我的地方。
 
 Bottom line: There are no shortage of sites on the internet that feature adult content. We will leave it to them and focus our efforts on creating the most welcoming environment possible for our community.
 
@@ -41,5 +43,5 @@ Like you, we love Tumblr and what it’s come to mean for millions of people aro
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcxMzIyMDhdfQ==
+eyJoaXN0b3J5IjpbMzQ4NzY3Nzg4XX0=
 -->
