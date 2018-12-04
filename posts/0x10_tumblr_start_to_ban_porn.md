@@ -28,9 +28,11 @@ Tumblr 将不再允许出现包含成人内容的帖子，我们已更新了[社
 
 在我们长久以来的小小理想中，Tumblr 是一个创造性表达、自我发现的安全之地，也是一种深度的社区意识。随着 Tumblr 不断发展和进化，我们更清晰的了解到我们对世界的影响，我们有责任考虑到对不同的年龄群体、人口结构、文化和思维方式的影响。我们花了相当多的时间来衡量在社区中允许出现成人内容的利弊。通过这样做，我们了解到，只有没有了这些内容，我们才有机会创造一个让更多人感到舒适的表达自我的地方。
 
-Bottom line: There are no shortage of sites on the internet that feature adult content. We will leave it to them and focus our efforts on creating the most welcoming environment possible for our community.
+> Bottom line: There are no shortage of sites on the internet that feature adult content. We will leave it to them and focus our efforts on creating the most welcoming environment possible for our community.
 
-## So what’s next?
+最根本的是：互联网上不乏以成人内容为特色的网站。我们将把这类内容留给它们，并集中精力为我们的社区创造最令人愉快的环境。
+
+## So what’s next?()
 
 Starting December 17, 2018, we will begin enforcing this new policy. Community members with content that is no longer permitted on Tumblr will get a heads up from us in advance and steps they can take to appeal or preserve their content outside the community if they so choose. All changes won’t happen overnight as something of this complexity takes time.
 
@@ -43,5 +45,5 @@ Like you, we love Tumblr and what it’s come to mean for millions of people aro
 Jeff D’Onofrio  
 CEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NzY3Nzg4XX0=
+eyJoaXN0b3J5IjpbMTk5ODI1MjQwNl19
 -->
