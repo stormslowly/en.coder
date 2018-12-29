@@ -15,7 +15,6 @@ do
 done;
 figlet 'Happy New Year!'
 ```
-
 shell 执行的结果确实很炫酷，但是只能在 linux 主机上执行。在我的 MacOS 上就不行了。主要是 MacOS 的 `date`  和 linux/unix 不同。而 `figlet`这个命令通过`brew install figlet`安装，试试效果不错！
 
 ```bash
@@ -27,6 +26,7 @@ $figlet hello
 |_| |_|\___|_|_|\___/
 
 ```
+为了在 mac 上也能搞个倒计时，我就决定用 H5 实现一个。大家也知道，我是一个前端渣渣，会点简单的 React。不想麻烦的配置的 webpack 就直接用了 Gats
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMzODA5MDcsMTQ0MzkwNDI0OF19
+eyJoaXN0b3J5IjpbMTgwNjU0NjkwNCwxNDQzOTA0MjQ4XX0=
 -->
