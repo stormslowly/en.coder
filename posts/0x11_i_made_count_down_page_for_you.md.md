@@ -6,7 +6,17 @@
 在闲逛的时候看到了，一个在终端实现的2019新年倒计时。
 ![command line magic](http://cdn2.51ulong.com/18-12-29/67719352.jpg)
 
-shell 执行的结果确实很炫酷，但是只能在 linux 主机上执行。在我的 MacOS 上就不行了。主要是 MacOS 的 `date`  和 linux/unix 不同。而 `figlet`这个命令通过`brew install figlet`安装。
+```bash
+while [[ $(date +%Y) -ne 2019 ]];
+do 
+  figlet $(($(date -d 2019-01-01 +%s)-$(date +%s)));
+  sleep 1;
+  clear;
+done;
+figlet 'Happy New Year!'
+```
+
+shell 执行的结果确实很炫酷，但是只能在 linux 主机上执行。在我的 MacOS 上就不行了。主要是 MacOS 的 `date`  和 linux/unix 不同。而 `figlet`这个命令通过`brew install figlet`安装，试试效果不错！
 
 ```bash
 $figlet hello
@@ -18,5 +28,5 @@ $figlet hello
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzMzNDI4NiwxNDQzOTA0MjQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MjMzODA5MDcsMTQ0MzkwNDI0OF19
 -->
