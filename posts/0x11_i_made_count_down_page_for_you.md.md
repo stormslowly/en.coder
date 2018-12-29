@@ -31,8 +31,12 @@ $figlet hello
 
 ![H5 countdwn](http://cdn2.51ulong.com/18-12-29/30949467.jpg)
 
-如果qi
+如果恰好要守着跨年这一刻，不让用这个 pshu 的这个倒计时。
+
+https://2019.shupengfei.me/  点击原文可达。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzkxNTg1MiwxNzUzMzMzNzUwLDE0ND
-M5MDQyNDhdfQ==
+eyJoaXN0b3J5IjpbODc2MzI3MDUwLDE3NTMzMzM3NTAsMTQ0Mz
+kwNDI0OF19
 -->
