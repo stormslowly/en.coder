@@ -7,9 +7,17 @@
 ![command line magic](http://cdn2.51ulong.com/18-12-29/67719352.jpg)
 
 shell 执行的结果确实很炫酷，但是只能在 linux 主机上执行。在我的 MacOS 上就不行了。主要是 MacOS 的 `date`  和 linux/unix 不同。
-```
-npm install -g gatsby-cli
+
+
+```bash
+$figlet hello
+ _          _ _
+| |__   ___| | | ___
+| '_ \ / _ \ | |/ _ \
+| | | |  __/ | | (_) |
+|_| |_|\___|_|_|\___/
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTY1OTMzLDE0NDM5MDQyNDhdfQ==
+eyJoaXN0b3J5IjpbLTcwMTExNTE3MCwxNDQzOTA0MjQ4XX0=
 -->
