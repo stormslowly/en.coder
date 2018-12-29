@@ -35,9 +35,9 @@ $figlet 2019
 
 https://2019.shupengfei.me/  点击原文可达。
 
-好了，最后说下这个 figlet，应该写做 FIGlet。
+好了，最后说下这个 figlet这个工具。其实它应该写做 FIGlet，这个 let 是 letter 的简写，而 FIG 是
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNzU5OTU2LDg3NjMyNzA1MCwxNzUzMz
-MzNzUwLDE0NDM5MDQyNDhdfQ==
+eyJoaXN0b3J5IjpbMTMwNzM0OTIyMSw4ODI3NTk5NTYsODc2Mz
+I3MDUwLDE3NTMzMzM3NTAsMTQ0MzkwNDI0OF19
 -->
