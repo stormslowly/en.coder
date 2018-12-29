@@ -35,8 +35,9 @@ $figlet 2019
 
 https://2019.shupengfei.me/  点击原文可达。
 
+好了，最后说下这个 figlet，应该写做 FIGlet。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTI4MTQzNyw4NzYzMjcwNTAsMTc1Mz
-MzMzc1MCwxNDQzOTA0MjQ4XX0=
+eyJoaXN0b3J5IjpbODgyNzU5OTU2LDg3NjMyNzA1MCwxNzUzMz
+MzNzUwLDE0NDM5MDQyNDhdfQ==
 -->
