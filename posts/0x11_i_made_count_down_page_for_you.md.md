@@ -29,6 +29,10 @@ $figlet hello
 ```
 为了在 mac 上也能搞个倒计时，我就决定用 H5 实现一个。大家也知道，我是一个前端渣渣，会点简单的 React。不想麻烦的配置的 webpack 就直接用了 Gatsby.js。NPM 上呢也有纯 Javascript 实现的 figlet。简单的拼装了下就作出了这个H5的新年倒计时了。
 
+![H5 countdwn](http://cdn2.51ulong.com/18-12-29/30949467.jpg)
+
+如果qi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzMzMzc1MCwxNDQzOTA0MjQ4XX0=
+eyJoaXN0b3J5IjpbMTIyMzkxNTg1MiwxNzUzMzMzNzUwLDE0ND
+M5MDQyNDhdfQ==
 -->
