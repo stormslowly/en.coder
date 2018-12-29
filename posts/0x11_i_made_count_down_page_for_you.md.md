@@ -6,6 +6,7 @@
 在闲逛的时候看到了，一个在终端实现的2019新年倒计时。
 ![command line magic](http://cdn2.51ulong.com/18-12-29/67719352.jpg)
 
+shell 脚本整理如下：
 ```bash
 while [[ $(date +%Y) -ne 2019 ]];
 do 
@@ -26,8 +27,8 @@ $figlet hello
 |_| |_|\___|_|_|\___/
 
 ```
-为了在 mac 上也能搞个倒计时，我就决定用 H5 实现一个。大家也知道，我是一个前端渣渣，会点简单的 React。不想麻烦的配置的 webpack 就直接用了 Gatsby.js。NPM 上呢也有纯 Javascript 实现的 figlet。简单的拼装了下就作出了
+为了在 mac 上也能搞个倒计时，我就决定用 H5 实现一个。大家也知道，我是一个前端渣渣，会点简单的 React。不想麻烦的配置的 webpack 就直接用了 Gatsby.js。NPM 上呢也有纯 Javascript 实现的 figlet。简单的拼装了下就作出了这个H5的新年倒计时了。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM4NTkwOTQsMTQ0MzkwNDI0OF19
+eyJoaXN0b3J5IjpbMTc1MzMzMzc1MCwxNDQzOTA0MjQ4XX0=
 -->
