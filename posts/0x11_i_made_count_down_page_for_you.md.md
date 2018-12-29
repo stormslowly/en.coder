@@ -4,11 +4,11 @@
 忙忙碌碌一年就要到头了，作为程序员到了明年还得继续改今年写的 bug。但好歹是跨年还是要搞点仪式感才行。
 
 在闲逛的时候看到了，一个在终端实现的2019新年倒计时。
-![cli ](http://cdn2.51ulong.com/18-12-29/67719352.jpg)
+![command line magic](http://cdn2.51ulong.com/18-12-29/67719352.jpg)
 
 ```
 npm install -g gatsby-cli
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQyMzcyNSwxNDQzOTA0MjQ4XX0=
+eyJoaXN0b3J5IjpbLTIwNzg2NzM1NywxNDQzOTA0MjQ4XX0=
 -->
