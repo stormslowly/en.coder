@@ -39,8 +39,10 @@ https://2019.shupengfei.me/  点击原文可达。
 
 好了，最后说下这个 figlet这个工具。其实它应该写做 FIGlet，这个 let 是 letter 的简写，而 FIG 是 Frank, Ian and Glenn 三个人的名字的简写。之所会有 figlet 工具，就是因为 Frank 邮件签名中使用了 ASCII 码拼成的名字，然后这三位 Geek 就开始开发这个工具了，第一个版本的 figlet（其实当时叫newban） 用 C 写成只有170行。到了现在的figlet 已经有1700多行代码，支持140多种字体。
 
+好了，这是2018年的最后一篇文章了，希望大家喜欢，最后祝大家新年快乐。
+明年见。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTcyMjYyMTMsLTcyMDE4MjQyMiwtOT
-AxMTg4NTQ4LDYwNzA5NDYzLDEzMDczNDkyMjEsODgyNzU5OTU2
-LDg3NjMyNzA1MCwxNzUzMzMzNzUwLDE0NDM5MDQyNDhdfQ==
+eyJoaXN0b3J5IjpbOTQ2MTc1ODIzLC03MjAxODI0MjIsLTkwMT
+E4ODU0OCw2MDcwOTQ2MywxMzA3MzQ5MjIxLDg4Mjc1OTk1Niw4
+NzYzMjcwNTAsMTc1MzMzMzc1MCwxNDQzOTA0MjQ4XX0=
 -->
