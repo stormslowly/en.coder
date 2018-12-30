@@ -35,9 +35,9 @@ $figlet 2019
 
 https://2019.shupengfei.me/  点击原文可达。
 
-好了，最后说下这个 figlet这个工具。其实它应该写做 FIGlet，这个 let 是 letter 的简写，而 FIG 是
-
+好了，最后说下这个 figlet这个工具。其实它应该写做 FIGlet，这个 let 是 letter 的简写，而 FIG 是 Frank, Ian and Glenn 三个人的名字的简写。之所会有 figlet 工具，就是因为 Frank 邮件签名中使用了 ASCII 码ping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzM0OTIyMSw4ODI3NTk5NTYsODc2Mz
-I3MDUwLDE3NTMzMzM3NTAsMTQ0MzkwNDI0OF19
+eyJoaXN0b3J5IjpbLTg3ODEzOTk1MiwxMzA3MzQ5MjIxLDg4Mj
+c1OTk1Niw4NzYzMjcwNTAsMTc1MzMzMzc1MCwxNDQzOTA0MjQ4
+XX0=
 -->
